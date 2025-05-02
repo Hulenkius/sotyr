@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fullwidthfullstop.vert" format="2">
+  <advance width="420" height="542"/>
+  <outline>
+  <component base="fullwidthfullstop"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.650980392156863,0.0666666666666667,1</string>
+      <key>public.verticalOrigin</key>
+      <real>441.519989013672</real>
+    </dict>
+  </lib>
+</glyph>

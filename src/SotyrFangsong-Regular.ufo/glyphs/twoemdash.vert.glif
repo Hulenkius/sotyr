@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twoemdash.vert" format="2">
+  <advance width="420" height="1084"/>
+  <outline>
+    <contour>
+      <point x="222" y="-610" type="line"/>
+      <point x="222" y="-597" type="line"/>
+      <point x="218" y="-581" type="line"/>
+      <point x="218" y="-559" type="line"/>
+      <point x="222" y="-548" type="line"/>
+      <point x="220" y="-380" type="line"/>
+      <point x="222" y="-363" type="line"/>
+      <point x="222" y="-349" type="line"/>
+      <point x="220" y="-324" type="line"/>
+      <point x="222" y="-218" type="line"/>
+      <point x="222" y="-203" type="line"/>
+      <point x="218" y="-184" type="line"/>
+      <point x="222" y="-168" type="line"/>
+      <point x="220" y="-78" type="line"/>
+      <point x="220" y="-61" type="line"/>
+      <point x="220" y="-40" type="line"/>
+      <point x="222" y="34" type="line"/>
+      <point x="222" y="49" type="line"/>
+      <point x="218" y="74" type="line"/>
+      <point x="220" y="141" type="line"/>
+      <point x="220" y="200" type="line"/>
+      <point x="220" y="213" type="line"/>
+      <point x="222" y="235" type="line"/>
+      <point x="220" y="270" type="line"/>
+      <point x="218" y="305" type="line"/>
+      <point x="218" y="405" type="line"/>
+      <point x="207" y="403" type="line"/>
+      <point x="200" y="403" type="line"/>
+      <point x="198" y="393" type="line"/>
+      <point x="202" y="376" type="line"/>
+      <point x="200" y="321" type="line"/>
+      <point x="198" y="300" type="line"/>
+      <point x="198" y="192" type="line"/>
+      <point x="202" y="172" type="line"/>
+      <point x="200" y="158" type="line"/>
+      <point x="200" y="121" type="line"/>
+      <point x="202" y="100" type="line"/>
+      <point x="200" y="81" type="line"/>
+      <point x="202" y="9" type="line"/>
+      <point x="200" y="-13" type="line"/>
+      <point x="198" y="-139" type="line"/>
+      <point x="202" y="-157" type="line"/>
+      <point x="202" y="-179" type="line"/>
+      <point x="202" y="-199" type="line"/>
+      <point x="202" y="-257" type="line"/>
+      <point x="198" y="-279" type="line"/>
+      <point x="198" y="-316" type="line"/>
+      <point x="202" y="-334" type="line"/>
+      <point x="200" y="-462" type="line"/>
+      <point x="200" y="-481" type="line"/>
+      <point x="202" y="-523" type="line"/>
+      <point x="198" y="-606" type="line"/>
+      <point x="211" y="-610" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.650980392156863,0.0666666666666667,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>442</integer>
+    </dict>
+  </lib>
+</glyph>

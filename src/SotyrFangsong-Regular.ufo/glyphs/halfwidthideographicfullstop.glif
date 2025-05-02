@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="halfwidthideographicfullstop" format="2">
+  <advance width="210" height="271"/>
+  <unicode hex="FF61"/>
+  <outline>
+  <component base="ideographicfullstop" xOffset="-5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.650980392156863,0.0666666666666667,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>442</integer>
+    </dict>
+  </lib>
+</glyph>

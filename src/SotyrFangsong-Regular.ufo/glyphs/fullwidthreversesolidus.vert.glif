@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fullwidthreversesolidus.vert" format="2">
+  <advance width="420" height="542"/>
+  <outline>
+    <contour>
+      <point x="404" y="279" type="line"/>
+      <point x="9" y="127" type="line"/>
+      <point x="16" y="108" type="line"/>
+      <point x="412" y="260" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.650980392156863,0.0666666666666667,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>442</integer>
+    </dict>
+  </lib>
+</glyph>

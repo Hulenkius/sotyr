@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="katakanasmalltu-kana" format="2">
+  <advance width="420" height="542"/>
+  <unicode hex="30C3"/>
+  <outline>
+  <component base="katakanatu-kana" xScale="0.755245090384472" yScale="0.755245090384472" xOffset="52" yOffset="7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>442</integer>
+    </dict>
+  </lib>
+</glyph>

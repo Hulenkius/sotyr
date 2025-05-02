@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteleft" format="2">
+  <advance width="419" height="542"/>
+  <unicode hex="2018"/>
+  <outline>
+    <contour>
+      <point x="325" y="416" type="qcurve"/>
+      <point x="328" y="410" type="line"/>
+      <point x="328" y="410"/>
+      <point x="304" y="391" type="qcurve"/>
+      <point x="283" y="371"/>
+      <point x="283" y="357" type="qcurve"/>
+      <point x="283" y="351" type="line"/>
+      <point x="298" y="337"/>
+      <point x="303" y="323" type="qcurve"/>
+      <point x="303" y="293"/>
+      <point x="269" y="293" type="qcurve"/>
+      <point x="253" y="293"/>
+      <point x="243" y="323" type="qcurve"/>
+      <point x="253" y="361"/>
+      <point x="265" y="368" type="qcurve"/>
+      <point x="310" y="416"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.650980392156863,0.0666666666666667,1</string>
+      <key>public.verticalOrigin</key>
+      <real>442.201049804687</real>
+    </dict>
+  </lib>
+</glyph>

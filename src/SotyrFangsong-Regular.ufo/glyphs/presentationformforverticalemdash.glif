@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="presentationformforverticalemdash" format="2">
+  <advance width="420" height="542"/>
+  <unicode hex="FE31"/>
+  <outline>
+    <contour>
+      <point x="221" y="-61" type="line"/>
+      <point x="221" y="-30" type="line"/>
+      <point x="219" y="-2" type="line"/>
+      <point x="219" y="104" type="line"/>
+      <point x="221" y="152" type="line"/>
+      <point x="220" y="198" type="line"/>
+      <point x="221" y="239" type="line"/>
+      <point x="221" y="312" type="line"/>
+      <point x="220" y="325" type="line"/>
+      <point x="221" y="384" type="line"/>
+      <point x="221" y="400" type="line"/>
+      <point x="209" y="401" type="line"/>
+      <point x="201" y="400" type="line"/>
+      <point x="200" y="358" type="line"/>
+      <point x="200" y="271" type="line"/>
+      <point x="200" y="251" type="line"/>
+      <point x="201" y="201" type="line"/>
+      <point x="201" y="145" type="line"/>
+      <point x="199" y="119" type="line"/>
+      <point x="200" y="57" type="line"/>
+      <point x="200" y="12" type="line"/>
+      <point x="200" y="-61" type="line"/>
+      <point x="207" y="-61" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.650980392156863,0.0666666666666667,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>442</integer>
+    </dict>
+  </lib>
+</glyph>
