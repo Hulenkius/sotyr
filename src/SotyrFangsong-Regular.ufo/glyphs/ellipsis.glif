@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="2">
+  <advance width="420" height="542"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="179" y="195" type="curve"/>
+      <point x="179" y="178"/>
+      <point x="193" y="164"/>
+      <point x="210" y="164" type="curve"/>
+      <point x="227" y="164"/>
+      <point x="241" y="178"/>
+      <point x="241" y="195" type="curve"/>
+      <point x="241" y="211"/>
+      <point x="227" y="225"/>
+      <point x="210" y="225" type="curve"/>
+      <point x="193" y="225"/>
+      <point x="179" y="211"/>
+    </contour>
+    <contour>
+      <point x="41" y="195" type="curve"/>
+      <point x="41" y="178"/>
+      <point x="55" y="164"/>
+      <point x="72" y="164" type="curve"/>
+      <point x="89" y="164"/>
+      <point x="102" y="178"/>
+      <point x="102" y="195" type="curve"/>
+      <point x="102" y="211"/>
+      <point x="89" y="225"/>
+      <point x="72" y="225" type="curve"/>
+      <point x="55" y="225"/>
+      <point x="41" y="211"/>
+    </contour>
+    <contour>
+      <point x="318" y="195" type="curve"/>
+      <point x="318" y="178"/>
+      <point x="332" y="164"/>
+      <point x="349" y="164" type="curve"/>
+      <point x="366" y="164"/>
+      <point x="379" y="178"/>
+      <point x="379" y="195" type="curve"/>
+      <point x="379" y="211"/>
+      <point x="366" y="225"/>
+      <point x="349" y="225" type="curve"/>
+      <point x="332" y="225"/>
+      <point x="318" y="211"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.650980392156863,0.0666666666666667,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>442</integer>
+    </dict>
+  </lib>
+</glyph>

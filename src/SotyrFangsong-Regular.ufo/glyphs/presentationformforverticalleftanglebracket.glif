@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="presentationformforverticalleftanglebracket" format="2">
+  <advance width="420" height="542"/>
+  <unicode hex="FE3F"/>
+  <outline>
+  <component base="leftanglebracket" xScale="5.20474889637625E-017" xyScale="-0.85" yxScale="0.85" yScale="5.20474889637625E-017" xOffset="54" yOffset="284"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.650980392156863,0.0666666666666667,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>442</integer>
+    </dict>
+  </lib>
+</glyph>

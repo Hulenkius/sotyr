@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightblacklenticularbracket.ss01.1" format="2">
+  <advance width="420" height="542"/>
+  <outline>
+  <component base="rightblacklenticularbracket" xScale="-1.56142466891288E-016" xyScale="-0.85" yxScale="0.85" yScale="-1.56142466891288E-016" xOffset="47" yOffset="419"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.650980392156863,0.0666666666666667,1</string>
+      <key>public.verticalOrigin</key>
+      <real>441.819580078125</real>
+    </dict>
+  </lib>
+</glyph>
