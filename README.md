@@ -1,6 +1,6 @@
 # 仲春仿宋
 
-![](/doc/cover.webp)
+![](/docs/cover.webp)
 
 「仲春仿宋」项目是对上世纪聚珍仿宋二号长体铅活字字形进行的数字化。采用直接复刻办法，从印刷品扫描件中提取字形并封装为字体。
 
@@ -46,7 +46,7 @@
 
 https://afdian.com/a/hulenkius
 
-![](/doc/donate.webp
+![](/docs/donate.webp)
 
 ## 愿景
 
