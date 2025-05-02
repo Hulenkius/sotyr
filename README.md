@@ -1,6 +1,6 @@
 # 仲春仿宋
 
-![](https://forum.han-zi.top/assets/files/2025-05-02/1746189090-832406-b1445830-c895-4973-9783-3667f4c71bb6.jpg)
+![](/doc/cover.webp)
 
 「仲春仿宋」项目是对上世纪聚珍仿宋二号长体铅活字字形进行的数字化。采用直接复刻办法，从印刷品扫描件中提取字形并封装为字体。
 
@@ -38,13 +38,15 @@
 
 **执刀**：hulenkius
 
-**协助**：特里王，Basic低手，南池子，Github Copilot
+**协助与顾问**：特里王，Basic低手，南池子，Github Copilot
 
 ## 捐赠慰问
 
 您可以通过「爱发电」平台对本项目进行捐助：
 
 https://afdian.com/a/hulenkius
+
+![](/doc/donate.webp
 
 ## 愿景
 
