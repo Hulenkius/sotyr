@@ -2,12 +2,7 @@
 <glyph name="fullwidthsolidus.ss01" format="2">
   <advance width="210" height="542"/>
   <outline>
-    <contour>
-      <point x="21" y="-51" type="line"/>
-      <point x="207" y="433" type="line"/>
-      <point x="188" y="440" type="line"/>
-      <point x="2" y="-44" type="line"/>
-    </contour>
+  <component base="fullwidthsolidus" xOffset="-107"/>
   </outline>
   <lib>
     <dict>
