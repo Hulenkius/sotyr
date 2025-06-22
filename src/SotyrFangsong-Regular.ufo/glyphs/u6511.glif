@@ -518,9 +518,9 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0,0.501960784313726,1</string>
+      <string>0.752941176470588,0.752941176470588,0.752941176470588,1</string>
       <key>public.verticalOrigin</key>
-      <integer>442</integer>
+      <real>456.435180664063</real>
     </dict>
   </lib>
 </glyph>
