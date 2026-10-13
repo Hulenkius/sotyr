@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fullwidthsemicolon.ss04" format="2">
+  <advance width="210" height="271"/>
+  <outline>
+    <contour>
+      <point x="116" y="154" type="qcurve"/>
+      <point x="144" y="147"/>
+      <point x="144" y="135" type="qcurve"/>
+      <point x="123" y="102"/>
+      <point x="120" y="102" type="qcurve"/>
+      <point x="86" y="102"/>
+      <point x="86" y="131" type="qcurve"/>
+      <point x="86" y="153"/>
+    </contour>
+    <contour>
+      <point x="107" y="59" type="qcurve"/>
+      <point x="123" y="59"/>
+      <point x="129" y="46" type="qcurve"/>
+      <point x="135" y="41"/>
+      <point x="135" y="7" type="qcurve"/>
+      <point x="124" y="-27"/>
+      <point x="99" y="-49" type="qcurve"/>
+      <point x="81" y="-69"/>
+      <point x="70" y="-69" type="qcurve"/>
+      <point x="70" y="-66"/>
+      <point x="66" y="-60" type="qcurve"/>
+      <point x="66" y="-49"/>
+      <point x="90" y="-34" type="qcurve"/>
+      <point x="105" y="-19"/>
+      <point x="105" y="0" type="qcurve"/>
+      <point x="83" y="26" type="line"/>
+      <point x="81" y="26"/>
+      <point x="79" y="33" type="qcurve"/>
+      <point x="79" y="53"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.650980392156863,0.0666666666666667,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>442</integer>
+    </dict>
+  </lib>
+</glyph>

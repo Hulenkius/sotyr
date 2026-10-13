@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fullwidthexclamationmark.ss04" format="2">
+  <advance width="210" height="542"/>
+  <outline>
+    <contour>
+      <point x="91" y="108" type="qcurve"/>
+      <point x="89" y="111" type="line"/>
+      <point x="89" y="143" type="line"/>
+      <point x="86" y="147"/>
+      <point x="86" y="167" type="qcurve"/>
+      <point x="88" y="167"/>
+      <point x="96" y="179" type="qcurve"/>
+      <point x="104" y="184" type="line"/>
+      <point x="104" y="186" type="line"/>
+      <point x="116" y="186" type="line"/>
+      <point x="125" y="186"/>
+      <point x="131" y="159" type="qcurve"/>
+      <point x="131" y="136"/>
+      <point x="126" y="109" type="qcurve"/>
+      <point x="126" y="88" type="line"/>
+      <point x="122" y="88" type="line"/>
+      <point x="122" y="56" type="line"/>
+      <point x="119" y="56" type="line"/>
+      <point x="117" y="13"/>
+      <point x="101" y="13" type="qcurve"/>
+      <point x="92" y="28"/>
+      <point x="92" y="74" type="qcurve"/>
+      <point x="89" y="101" type="line"/>
+      <point x="89" y="108"/>
+    </contour>
+    <contour>
+      <point x="109" y="1" type="qcurve"/>
+      <point x="114" y="1" type="line"/>
+      <point x="121" y="-2"/>
+      <point x="129" y="-14" type="qcurve"/>
+      <point x="131" y="-14" type="line"/>
+      <point x="131" y="-27"/>
+      <point x="122" y="-34" type="qcurve"/>
+      <point x="122" y="-42"/>
+      <point x="111" y="-42" type="qcurve"/>
+      <point x="88" y="-42"/>
+      <point x="79" y="-20" type="qcurve"/>
+      <point x="79" y="-7"/>
+      <point x="94" y="-4" type="qcurve"/>
+      <point x="94" y="-2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.650980392156863,0.0666666666666667,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>442</integer>
+    </dict>
+  </lib>
+</glyph>

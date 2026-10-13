@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="katakanamiddledot.ss04" format="2">
+  <advance width="210" height="542"/>
+  <outline>
+    <contour>
+      <point x="147" y="205"/>
+      <point x="142" y="216"/>
+      <point x="133" y="222" type="curve"/>
+      <point x="126" y="230"/>
+      <point x="117" y="235"/>
+      <point x="105" y="238" type="curve"/>
+      <point x="94" y="236"/>
+      <point x="82" y="229"/>
+      <point x="74" y="222" type="curve"/>
+      <point x="68" y="215"/>
+      <point x="64" y="204"/>
+      <point x="63" y="194" type="curve"/>
+      <point x="65" y="182"/>
+      <point x="68" y="172"/>
+      <point x="76" y="163" type="curve"/>
+      <point x="82" y="157"/>
+      <point x="93" y="154"/>
+      <point x="104" y="153" type="curve"/>
+      <point x="113" y="153"/>
+      <point x="123" y="157"/>
+      <point x="130" y="161" type="curve"/>
+      <point x="139" y="169"/>
+      <point x="146" y="181"/>
+      <point x="146" y="196" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.650980392156863,0.0666666666666667,1</string>
+      <key>public.verticalOrigin</key>
+      <real>466.519989013672</real>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftblacklenticularbracket.ss04" format="2">
+  <advance width="210" height="542"/>
+  <outline>
+    <contour>
+      <point x="32" y="-12" type="line"/>
+      <point x="35" y="36"/>
+      <point x="37" y="36" type="qcurve"/>
+      <point x="35" y="49" type="line"/>
+      <point x="35" y="96" type="line"/>
+      <point x="35" y="118"/>
+      <point x="37" y="146" type="qcurve"/>
+      <point x="35" y="152" type="line"/>
+      <point x="37" y="157"/>
+      <point x="37" y="159" type="qcurve"/>
+      <point x="35" y="178" type="line"/>
+      <point x="37" y="196" type="line"/>
+      <point x="35" y="201"/>
+      <point x="35" y="204" type="qcurve"/>
+      <point x="37" y="209"/>
+      <point x="37" y="212" type="qcurve"/>
+      <point x="35" y="217" type="line"/>
+      <point x="35" y="220"/>
+      <point x="37" y="225" type="qcurve"/>
+      <point x="37" y="233"/>
+      <point x="35" y="233" type="qcurve"/>
+      <point x="37" y="259"/>
+      <point x="37" y="273" type="qcurve"/>
+      <point x="37" y="402" type="line"/>
+      <point x="50" y="404" type="line"/>
+      <point x="56" y="402" type="line"/>
+      <point x="56" y="404" type="line"/>
+      <point x="61" y="402" type="line"/>
+      <point x="177" y="402" type="line"/>
+      <point x="177" y="396" type="line"/>
+      <point x="177" y="391"/>
+      <point x="137" y="317" type="qcurve"/>
+      <point x="116" y="261"/>
+      <point x="116" y="217" type="qcurve"/>
+      <point x="116" y="180" type="line"/>
+      <point x="116" y="178"/>
+      <point x="114" y="178" type="qcurve"/>
+      <point x="116" y="173" type="line"/>
+      <point x="116" y="165" type="line"/>
+      <point x="116" y="122"/>
+      <point x="143" y="49" type="qcurve"/>
+      <point x="174" y="0"/>
+      <point x="174" y="-9" type="qcurve"/>
+      <point x="174" y="-17" type="line"/>
+      <point x="166" y="-17"/>
+      <point x="166" y="-19" type="qcurve"/>
+      <point x="161" y="-17" type="line"/>
+      <point x="69" y="-17" type="line"/>
+      <point x="66" y="-17"/>
+      <point x="66" y="-19" type="qcurve"/>
+      <point x="64" y="-19"/>
+      <point x="64" y="-17" type="qcurve"/>
+      <point x="50" y="-19" type="line"/>
+      <point x="43" y="-19" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.650980392156863,0.0666666666666667,1</string>
+      <key>public.verticalOrigin</key>
+      <real>442.154388427734</real>
+    </dict>
+  </lib>
+</glyph>

@@ -3,14 +3,89 @@
   <advance width="420" height="542"/>
   <unicode hex="FE3D"/>
   <outline>
-  <component base="leftdoubleanglebracket" xScale="5.20474889637625E-017" xyScale="-0.85" yxScale="0.85" yScale="5.20474889637625E-017" xOffset="56" yOffset="322"/>
+    <contour>
+      <point x="385" y="77" type="qcurve"/>
+      <point x="385" y="72" type="line"/>
+      <point x="384" y="62" type="line"/>
+      <point x="378" y="62" type="line"/>
+      <point x="336" y="92"/>
+      <point x="303" y="109" type="qcurve"/>
+      <point x="244" y="148" type="line"/>
+      <point x="239" y="148"/>
+      <point x="214" y="166" type="qcurve"/>
+      <point x="169" y="145"/>
+      <point x="136" y="120" type="qcurve"/>
+      <point x="96" y="94"/>
+      <point x="59" y="74" type="qcurve"/>
+      <point x="46" y="61"/>
+      <point x="38" y="61" type="qcurve"/>
+      <point x="36" y="62"/>
+      <point x="34" y="83" type="qcurve"/>
+      <point x="34" y="86"/>
+      <point x="64" y="101" type="qcurve"/>
+      <point x="75" y="105"/>
+      <point x="89" y="118" type="qcurve"/>
+      <point x="95" y="118"/>
+      <point x="128" y="141" type="qcurve"/>
+      <point x="133" y="141"/>
+      <point x="155" y="158" type="qcurve"/>
+      <point x="160" y="158"/>
+      <point x="180" y="173" type="qcurve"/>
+      <point x="210" y="191"/>
+      <point x="212" y="191" type="qcurve"/>
+      <point x="231" y="180"/>
+      <point x="254" y="162" type="qcurve"/>
+      <point x="260" y="162"/>
+      <point x="294" y="136" type="qcurve"/>
+      <point x="333" y="115"/>
+      <point x="376" y="87" type="qcurve"/>
+      <point x="385" y="87"/>
+    </contour>
+    <contour>
+      <point x="385" y="-5" type="line"/>
+      <point x="384" y="-16"/>
+      <point x="383" y="-16" type="qcurve"/>
+      <point x="381" y="-16" type="line"/>
+      <point x="374" y="-16"/>
+      <point x="364" y="-6" type="qcurve"/>
+      <point x="359" y="-6"/>
+      <point x="244" y="65" type="qcurve"/>
+      <point x="214" y="87" type="line"/>
+      <point x="208" y="87"/>
+      <point x="149" y="48" type="qcurve"/>
+      <point x="143" y="42"/>
+      <point x="110" y="22" type="qcurve"/>
+      <point x="96" y="13" type="line"/>
+      <point x="69" y="-3" type="line"/>
+      <point x="69" y="-5"/>
+      <point x="56" y="-10" type="qcurve"/>
+      <point x="55" y="-16"/>
+      <point x="38" y="-23" type="qcurve"/>
+      <point x="38" y="-23" type="line"/>
+      <point x="36" y="-19"/>
+      <point x="36" y="-15" type="qcurve"/>
+      <point x="36" y="3" type="line"/>
+      <point x="46" y="12"/>
+      <point x="72" y="23" type="qcurve"/>
+      <point x="73" y="25"/>
+      <point x="123" y="54" type="qcurve"/>
+      <point x="163" y="80" type="line"/>
+      <point x="194" y="99" type="line"/>
+      <point x="197" y="99"/>
+      <point x="207" y="108" type="qcurve"/>
+      <point x="212" y="108" type="line"/>
+      <point x="217" y="103"/>
+      <point x="304" y="52" type="qcurve"/>
+      <point x="350" y="20"/>
+      <point x="384" y="6" type="qcurve"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
       <string>0,0.650980392156863,0.0666666666666667,1</string>
       <key>public.verticalOrigin</key>
-      <integer>442</integer>
+      <real>441.969940185547</real>
     </dict>
   </lib>
 </glyph>

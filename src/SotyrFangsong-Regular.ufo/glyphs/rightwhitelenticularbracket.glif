@@ -94,8 +94,8 @@
       <point x="177" y="368" type="line"/>
       <point x="177" y="377"/>
       <point x="167" y="377" type="qcurve"/>
-      <point x="99" y="377" type="line"/>
-      <point x="99" y="367" type="line"/>
+      <point x="98" y="377" type="line"/>
+      <point x="98" y="367" type="line"/>
       <point x="109" y="353" type="line"/>
       <point x="143" y="272"/>
       <point x="143" y="204" type="qcurve"/>
@@ -117,7 +117,7 @@
       <key>public.markColor</key>
       <string>0,0.650980392156863,0.0666666666666667,1</string>
       <key>public.verticalOrigin</key>
-      <real>441.776977539063</real>
+      <real>441.667297363281</real>
     </dict>
   </lib>
 </glyph>

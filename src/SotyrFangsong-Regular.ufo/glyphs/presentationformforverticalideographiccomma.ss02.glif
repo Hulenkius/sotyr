@@ -2,14 +2,70 @@
 <glyph name="presentationformforverticalideographiccomma.ss02" format="2">
   <advance width="420"/>
   <outline>
-  <component base="presentationformforverticalideographiccomma" xOffset="282" yOffset="510"/>
+    <contour>
+      <point x="442" y="602" type="line"/>
+      <point x="444" y="601" type="line"/>
+      <point x="446" y="598" type="line"/>
+      <point x="452" y="599" type="line"/>
+      <point x="455" y="597"/>
+      <point x="456" y="594" type="qcurve"/>
+      <point x="460" y="594" type="line"/>
+      <point x="460" y="595" type="line"/>
+      <point x="464" y="595"/>
+      <point x="469" y="593" type="qcurve"/>
+      <point x="473" y="590" type="line"/>
+      <point x="479" y="590"/>
+      <point x="483" y="587" type="qcurve"/>
+      <point x="486" y="586"/>
+      <point x="499" y="579" type="qcurve"/>
+      <point x="507" y="574"/>
+      <point x="516" y="571" type="qcurve"/>
+      <point x="533" y="554" type="line"/>
+      <point x="540" y="544"/>
+      <point x="543" y="532" type="qcurve"/>
+      <point x="544" y="531" type="line"/>
+      <point x="544" y="523" type="line"/>
+      <point x="545" y="521" type="line"/>
+      <point x="544" y="514" type="line"/>
+      <point x="540" y="500"/>
+      <point x="535" y="496" type="qcurve"/>
+      <point x="520" y="491" type="line"/>
+      <point x="515" y="492" type="line"/>
+      <point x="514" y="494" type="line"/>
+      <point x="513" y="494" type="line"/>
+      <point x="513" y="493" type="line"/>
+      <point x="510" y="493" type="line"/>
+      <point x="509" y="496" type="line"/>
+      <point x="510" y="497" type="line"/>
+      <point x="503" y="501" type="line"/>
+      <point x="500" y="506"/>
+      <point x="500" y="513" type="qcurve"/>
+      <point x="496" y="517" type="line"/>
+      <point x="496" y="526" type="line"/>
+      <point x="493" y="533" type="line"/>
+      <point x="491" y="537"/>
+      <point x="488" y="541" type="qcurve"/>
+      <point x="484" y="555"/>
+      <point x="477" y="559"/>
+      <point x="474" y="563" type="qcurve"/>
+      <point x="474" y="564" type="line"/>
+      <point x="471" y="565"/>
+      <point x="469" y="568" type="qcurve"/>
+      <point x="460" y="575" type="line"/>
+      <point x="452" y="582" type="line"/>
+      <point x="447" y="584"/>
+      <point x="441" y="590" type="qcurve"/>
+      <point x="441" y="594" type="line"/>
+      <point x="438" y="593" type="line"/>
+      <point x="437" y="596" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
       <string>0,0.650980392156863,0.0666666666666667,1</string>
       <key>public.verticalOrigin</key>
-      <integer>442</integer>
+      <real>442.053436279297</real>
     </dict>
   </lib>
 </glyph>

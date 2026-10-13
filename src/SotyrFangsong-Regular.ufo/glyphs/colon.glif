@@ -4,67 +4,67 @@
   <unicode hex="003A"/>
   <outline>
     <contour>
-      <point x="32" y="5" type="qcurve"/>
-      <point x="29" y="16" type="line"/>
-      <point x="29" y="18"/>
-      <point x="28" y="28"/>
-      <point x="32" y="32" type="qcurve"/>
-      <point x="34" y="33"/>
-      <point x="37" y="36"/>
-      <point x="39" y="37" type="qcurve"/>
-      <point x="51" y="42" type="line"/>
-      <point x="54" y="40"/>
-      <point x="61" y="41"/>
-      <point x="64" y="39" type="qcurve"/>
-      <point x="66" y="36"/>
-      <point x="72" y="30"/>
-      <point x="73" y="27" type="qcurve"/>
-      <point x="74" y="25" type="line"/>
-      <point x="74" y="15" type="line"/>
-      <point x="74" y="8" type="line"/>
-      <point x="71" y="5"/>
-      <point x="64" y="-6"/>
-      <point x="61" y="-7" type="qcurve"/>
-      <point x="56" y="-8" type="line"/>
-      <point x="51" y="-8" type="line"/>
-      <point x="47" y="-7" type="line"/>
-      <point x="45" y="-7"/>
-      <point x="37" y="-4"/>
-      <point x="35" y="-2" type="qcurve"/>
-      <point x="32" y="2"/>
+      <point x="32" y="25" type="qcurve"/>
+      <point x="29" y="36" type="line"/>
+      <point x="29" y="38"/>
+      <point x="28" y="48"/>
+      <point x="32" y="52" type="qcurve"/>
+      <point x="34" y="53"/>
+      <point x="37" y="56"/>
+      <point x="39" y="57" type="qcurve"/>
+      <point x="51" y="62" type="line"/>
+      <point x="54" y="60"/>
+      <point x="61" y="61"/>
+      <point x="64" y="59" type="qcurve"/>
+      <point x="66" y="56"/>
+      <point x="72" y="50"/>
+      <point x="73" y="47" type="qcurve"/>
+      <point x="74" y="45" type="line"/>
+      <point x="74" y="35" type="line"/>
+      <point x="74" y="28" type="line"/>
+      <point x="71" y="25"/>
+      <point x="64" y="14"/>
+      <point x="61" y="13" type="qcurve"/>
+      <point x="56" y="12" type="line"/>
+      <point x="51" y="12" type="line"/>
+      <point x="47" y="13" type="line"/>
+      <point x="45" y="13"/>
+      <point x="37" y="16"/>
+      <point x="35" y="18" type="qcurve"/>
+      <point x="32" y="22"/>
     </contour>
     <contour>
-      <point x="34" y="144" type="qcurve"/>
-      <point x="31" y="147"/>
-      <point x="28" y="156"/>
-      <point x="27" y="161" type="qcurve"/>
-      <point x="27" y="167" type="line"/>
-      <point x="30" y="173" type="line"/>
-      <point x="31" y="177"/>
-      <point x="38" y="179"/>
-      <point x="40" y="181" type="qcurve"/>
-      <point x="46" y="185"/>
-      <point x="50" y="185" type="qcurve"/>
-      <point x="55" y="183"/>
-      <point x="60" y="184"/>
-      <point x="62" y="182" type="qcurve"/>
-      <point x="65" y="182"/>
-      <point x="69" y="176"/>
-      <point x="70" y="176" type="qcurve"/>
-      <point x="73" y="170"/>
-      <point x="73" y="165"/>
-      <point x="74" y="163" type="qcurve"/>
-      <point x="76" y="157"/>
-      <point x="72" y="150"/>
-      <point x="70" y="147" type="qcurve"/>
-      <point x="72" y="142"/>
-      <point x="65" y="141"/>
-      <point x="63" y="139" type="qcurve"/>
-      <point x="61" y="138"/>
-      <point x="55" y="135"/>
-      <point x="51" y="136" type="qcurve"/>
-      <point x="47" y="137"/>
-      <point x="38" y="140"/>
+      <point x="34" y="164" type="qcurve"/>
+      <point x="31" y="167"/>
+      <point x="28" y="176"/>
+      <point x="27" y="181" type="qcurve"/>
+      <point x="27" y="187" type="line"/>
+      <point x="30" y="193" type="line"/>
+      <point x="31" y="197"/>
+      <point x="38" y="199"/>
+      <point x="40" y="201" type="qcurve"/>
+      <point x="46" y="205"/>
+      <point x="50" y="205" type="qcurve"/>
+      <point x="55" y="203"/>
+      <point x="60" y="204"/>
+      <point x="62" y="202" type="qcurve"/>
+      <point x="65" y="202"/>
+      <point x="69" y="196"/>
+      <point x="70" y="196" type="qcurve"/>
+      <point x="73" y="190"/>
+      <point x="73" y="185"/>
+      <point x="74" y="183" type="qcurve"/>
+      <point x="76" y="177"/>
+      <point x="72" y="170"/>
+      <point x="70" y="167" type="qcurve"/>
+      <point x="72" y="162"/>
+      <point x="65" y="161"/>
+      <point x="63" y="159" type="qcurve"/>
+      <point x="61" y="158"/>
+      <point x="55" y="155"/>
+      <point x="51" y="156" type="qcurve"/>
+      <point x="47" y="157"/>
+      <point x="38" y="160"/>
     </contour>
   </outline>
   <lib>

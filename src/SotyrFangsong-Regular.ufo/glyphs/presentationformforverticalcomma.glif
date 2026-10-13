@@ -3,7 +3,51 @@
   <advance width="420" height="542"/>
   <unicode hex="FE10"/>
   <outline>
-  <component base="fullwidthcomma" xOffset="100" yOffset="178"/>
+    <contour>
+      <point x="175" y="118" type="qcurve"/>
+      <point x="171" y="121" type="line"/>
+      <point x="171" y="127" type="line"/>
+      <point x="178" y="134"/>
+      <point x="187" y="135" type="qcurve"/>
+      <point x="195" y="139"/>
+      <point x="211" y="153"/>
+      <point x="214" y="160" type="qcurve"/>
+      <point x="215" y="160"/>
+      <point x="216" y="162" type="qcurve"/>
+      <point x="221" y="172"/>
+      <point x="222" y="173" type="qcurve"/>
+      <point x="222" y="195" type="line"/>
+      <point x="217" y="197" type="line"/>
+      <point x="197" y="197"/>
+      <point x="187" y="206" type="qcurve"/>
+      <point x="185" y="225" type="line"/>
+      <point x="189" y="233" type="line"/>
+      <point x="195" y="238" type="line"/>
+      <point x="205" y="244" type="line"/>
+      <point x="216" y="244" type="line"/>
+      <point x="229" y="242"/>
+      <point x="238" y="231" type="qcurve"/>
+      <point x="243" y="226"/>
+      <point x="243" y="219" type="qcurve"/>
+      <point x="248" y="205" type="line"/>
+      <point x="249" y="204" type="line"/>
+      <point x="249" y="201" type="line"/>
+      <point x="248" y="200" type="line"/>
+      <point x="248" y="194" type="line"/>
+      <point x="242" y="182" type="line"/>
+      <point x="242" y="174"/>
+      <point x="236" y="167" type="qcurve"/>
+      <point x="233" y="163"/>
+      <point x="232" y="159" type="qcurve"/>
+      <point x="223" y="148" type="line"/>
+      <point x="221" y="143"/>
+      <point x="217" y="139" type="qcurve"/>
+      <point x="209" y="132" type="line"/>
+      <point x="203" y="131"/>
+      <point x="195" y="125"/>
+      <point x="190" y="124" type="qcurve"/>
+      <point x="183" y="120"/>
+    </contour>
   </outline>
   <lib>
     <dict>

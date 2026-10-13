@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fullwidthreversesolidus.ss04" format="2">
+  <advance width="210" height="542"/>
+  <outline>
+    <contour>
+      <point x="207" y="-57" type="line"/>
+      <point x="184" y="6" type="line"/>
+      <point x="169" y="31" type="line"/>
+      <point x="155" y="69" type="line"/>
+      <point x="125" y="157" type="line"/>
+      <point x="55" y="339" type="line"/>
+      <point x="50" y="354" type="line"/>
+      <point x="45" y="366" type="line"/>
+      <point x="19" y="429" type="line"/>
+      <point x="13" y="428" type="line"/>
+      <point x="2" y="420" type="line"/>
+      <point x="2" y="410" type="line"/>
+      <point x="13" y="391" type="line"/>
+      <point x="58" y="270" type="line"/>
+      <point x="65" y="250" type="line"/>
+      <point x="71" y="237" type="line"/>
+      <point x="93" y="187" type="line"/>
+      <point x="105" y="153" type="line"/>
+      <point x="107" y="138" type="line"/>
+      <point x="159" y="9" type="line"/>
+      <point x="167" y="-15" type="line"/>
+      <point x="186" y="-64" type="line"/>
+      <point x="198" y="-60" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.650980392156863,0.0666666666666667,1</string>
+      <key>public.verticalOrigin</key>
+      <real>442.320007324219</real>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblleft.ss04" format="2">
+  <advance width="210" height="542"/>
+  <outline>
+    <contour>
+      <point x="101" y="416" type="qcurve"/>
+      <point x="104" y="410" type="line"/>
+      <point x="104" y="410"/>
+      <point x="80" y="391" type="qcurve"/>
+      <point x="59" y="371"/>
+      <point x="59" y="357" type="qcurve"/>
+      <point x="59" y="351" type="line"/>
+      <point x="74" y="337"/>
+      <point x="79" y="323" type="qcurve"/>
+      <point x="79" y="293"/>
+      <point x="45" y="293" type="qcurve"/>
+      <point x="29" y="293"/>
+      <point x="19" y="323" type="qcurve"/>
+      <point x="29" y="361"/>
+      <point x="41" y="368" type="qcurve"/>
+      <point x="86" y="416"/>
+    </contour>
+    <contour>
+      <point x="184" y="414" type="qcurve"/>
+      <point x="191" y="413" type="line"/>
+      <point x="191" y="410" type="line"/>
+      <point x="191" y="402"/>
+      <point x="169" y="389" type="qcurve"/>
+      <point x="158" y="378"/>
+      <point x="146" y="362" type="qcurve"/>
+      <point x="148" y="348"/>
+      <point x="166" y="331" type="qcurve"/>
+      <point x="166" y="315" type="line"/>
+      <point x="166" y="293"/>
+      <point x="137" y="293" type="qcurve"/>
+      <point x="118" y="293"/>
+      <point x="114" y="313" type="qcurve"/>
+      <point x="111" y="313"/>
+      <point x="111" y="320" type="qcurve"/>
+      <point x="111" y="363"/>
+      <point x="163" y="401" type="qcurve"/>
+      <point x="175" y="414"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.650980392156863,0.0666666666666667,1</string>
+      <key>public.verticalOrigin</key>
+      <real>442.201049804687</real>
+    </dict>
+  </lib>
+</glyph>

@@ -14,16 +14,15 @@
       <point x="267" y="286" type="line"/>
       <point x="264" y="272" type="line"/>
       <point x="262" y="272" type="line"/>
-      <point x="261" y="270" type="line"/>
       <point x="259" y="265" type="line"/>
       <point x="249" y="266" type="line"/>
       <point x="248" y="267" type="line"/>
       <point x="248" y="289" type="line"/>
       <point x="250" y="293" type="line"/>
       <point x="249" y="302" type="line"/>
-      <point x="256" y="309" type="line"/>
-      <point x="261" y="314" type="line"/>
-      <point x="265" y="320" type="line"/>
+      <point x="258" y="312"/>
+      <point x="262" y="316"/>
+      <point x="265" y="320" type="curve"/>
       <point x="266" y="326" type="line"/>
       <point x="262" y="331" type="line"/>
       <point x="260" y="335" type="line"/>
@@ -33,8 +32,9 @@
       <point x="232" y="338" type="line"/>
       <point x="229" y="342" type="line"/>
       <point x="229" y="380" type="line"/>
-      <point x="231" y="380" type="line"/>
-      <point x="244" y="382" type="line"/>
+      <point x="234" y="380"/>
+      <point x="239" y="381"/>
+      <point x="244" y="382" type="curve"/>
       <point x="248" y="386" type="line"/>
       <point x="266" y="387" type="line"/>
       <point x="270" y="389" type="line"/>
@@ -50,7 +50,6 @@
       <point x="186" y="398" type="line"/>
       <point x="179" y="400" type="line"/>
       <point x="177" y="411" type="line"/>
-      <point x="174" y="413" type="line"/>
       <point x="169" y="418" type="line"/>
       <point x="162" y="421" type="line"/>
       <point x="154" y="421" type="line"/>
@@ -58,21 +57,25 @@
       <point x="151" y="408" type="line"/>
       <point x="153" y="404" type="line"/>
       <point x="155" y="404" type="line"/>
-      <point x="156" y="400" type="line"/>
-      <point x="157" y="389" type="line"/>
+      <point x="157" y="398"/>
+      <point x="156" y="398"/>
+      <point x="157" y="389" type="curve"/>
       <point x="163" y="383" type="line"/>
-      <point x="164" y="336" type="line"/>
-      <point x="165" y="325" type="line"/>
+      <point x="164" y="344"/>
+      <point x="163" y="346"/>
+      <point x="165" y="325" type="curve"/>
       <point x="169" y="321" type="line"/>
       <point x="169" y="297" type="line"/>
       <point x="168" y="289" type="line"/>
       <point x="165" y="279" type="line"/>
       <point x="165" y="267" type="line"/>
       <point x="168" y="260" type="line"/>
-      <point x="169" y="247" type="line"/>
-      <point x="169" y="231" type="line"/>
-      <point x="167" y="221" type="line"/>
-      <point x="166" y="213" type="line"/>
+      <point x="169" y="247"/>
+      <point x="169" y="251"/>
+      <point x="169" y="231" type="curve"/>
+      <point x="167" y="221"/>
+      <point x="167" y="222"/>
+      <point x="166" y="213" type="curve"/>
       <point x="169" y="203" type="line"/>
       <point x="169" y="195" type="line"/>
       <point x="168" y="194" type="line"/>
@@ -86,8 +89,9 @@
       <point x="177" y="132" type="line"/>
       <point x="180" y="128" type="line"/>
       <point x="185" y="132" type="line"/>
-      <point x="184" y="139" type="line"/>
-      <point x="184" y="148" type="line"/>
+      <point x="184" y="139"/>
+      <point x="184" y="137"/>
+      <point x="184" y="148" type="curve"/>
       <point x="194" y="152" type="line"/>
       <point x="194" y="154" type="line"/>
       <point x="200" y="156" type="line"/>
@@ -126,8 +130,9 @@
       <point x="281" y="289" type="line"/>
       <point x="286" y="293" type="line"/>
       <point x="287" y="304" type="line"/>
-      <point x="293" y="314" type="line"/>
-      <point x="300" y="322" type="line"/>
+      <point x="294" y="316"/>
+      <point x="291" y="312"/>
+      <point x="300" y="322" type="curve"/>
       <point x="311" y="323" type="line"/>
       <point x="323" y="328" type="line"/>
       <point x="351" y="329" type="line"/>
@@ -135,8 +140,9 @@
       <point x="382" y="342" type="line"/>
       <point x="382" y="348" type="line"/>
       <point x="377" y="353" type="line"/>
-      <point x="371" y="356" type="line"/>
-      <point x="366" y="360" type="line"/>
+      <point x="371" y="356"/>
+      <point x="371" y="356"/>
+      <point x="366" y="360" type="curve"/>
       <point x="358" y="360" type="line"/>
       <point x="355" y="358" type="line"/>
       <point x="346" y="355" type="line"/>
@@ -159,7 +165,6 @@
       <point x="317" y="433" type="line"/>
       <point x="313" y="434" type="line"/>
       <point x="313" y="436" type="line"/>
-      <point x="310" y="442" type="line"/>
       <point x="304" y="451" type="line"/>
     </contour>
     <contour>
@@ -215,17 +220,19 @@
       <point x="70" y="379" type="line"/>
       <point x="67" y="376" type="line"/>
       <point x="67" y="348" type="line"/>
-      <point x="71" y="337" type="line"/>
-      <point x="73" y="327" type="line"/>
+      <point x="70" y="338"/>
+      <point x="71" y="337"/>
+      <point x="73" y="327" type="curve"/>
       <point x="74" y="244" type="line"/>
-      <point x="75" y="227" type="line"/>
-      <point x="78" y="206" type="line"/>
-      <point x="78" y="196" type="line"/>
-      <point x="77" y="188" type="line"/>
-      <point x="76" y="170" type="line"/>
-      <point x="74" y="160" type="line"/>
-      <point x="74" y="141" type="line"/>
-      <point x="73" y="121" type="line"/>
+      <point x="76" y="214"/>
+      <point x="78" y="212"/>
+      <point x="78" y="196" type="curve"/>
+      <point x="75" y="173"/>
+      <point x="78" y="181"/>
+      <point x="74" y="160" type="curve"/>
+      <point x="74" y="137"/>
+      <point x="74" y="140"/>
+      <point x="73" y="121" type="curve"/>
       <point x="70" y="118" type="line"/>
       <point x="65" y="111" type="line"/>
       <point x="65" y="104" type="line"/>
@@ -243,9 +250,9 @@
       <point x="46" y="36" type="line"/>
       <point x="49" y="34" type="line"/>
       <point x="65" y="34" type="line"/>
-      <point x="66" y="35" type="line"/>
-      <point x="72" y="41" type="line"/>
-      <point x="76" y="46" type="line"/>
+      <point x="71" y="40"/>
+      <point x="71" y="40"/>
+      <point x="76" y="46" type="curve"/>
       <point x="85" y="47" type="line"/>
       <point x="88" y="51" type="line"/>
       <point x="95" y="55" type="line"/>
@@ -257,7 +264,6 @@
       <point x="126" y="78" type="line"/>
       <point x="131" y="74" type="line"/>
       <point x="132" y="60" type="line"/>
-      <point x="134" y="55" type="line"/>
       <point x="136" y="47" type="line"/>
       <point x="132" y="40" type="line"/>
       <point x="132" y="-7" type="line"/>
@@ -270,10 +276,12 @@
       <point x="160" y="-13" type="line"/>
       <point x="157" y="-9" type="line"/>
       <point x="153" y="7" type="line"/>
-      <point x="151" y="46" type="line"/>
-      <point x="150" y="53" type="line"/>
-      <point x="150" y="68" type="line"/>
-      <point x="149" y="80" type="line"/>
+      <point x="152" y="32"/>
+      <point x="152" y="37"/>
+      <point x="150" y="53" type="curve"/>
+      <point x="150" y="72"/>
+      <point x="150" y="69"/>
+      <point x="149" y="80" type="curve"/>
       <point x="146" y="92" type="line"/>
       <point x="146" y="112" type="line"/>
       <point x="151" y="119" type="line"/>
@@ -283,8 +291,9 @@
       <point x="151" y="256" type="line"/>
       <point x="151" y="267" type="line"/>
       <point x="150" y="272" type="line"/>
-      <point x="151" y="278" type="line"/>
-      <point x="152" y="323" type="line"/>
+      <point x="152" y="284"/>
+      <point x="151" y="277"/>
+      <point x="152" y="323" type="curve"/>
       <point x="156" y="329" type="line"/>
       <point x="157" y="338" type="line"/>
       <point x="156" y="348" type="line"/>
@@ -312,8 +321,9 @@
       <point x="131" y="258" type="line"/>
       <point x="123" y="259" type="line"/>
       <point x="113" y="258" type="line"/>
-      <point x="101" y="251" type="line"/>
-      <point x="95" y="249" type="line"/>
+      <point x="105" y="253"/>
+      <point x="103" y="252"/>
+      <point x="95" y="249" type="curve"/>
       <point x="93" y="252" type="line"/>
       <point x="93" y="297" type="line"/>
       <point x="95" y="309" type="line"/>
@@ -321,8 +331,10 @@
       <point x="108" y="318" type="line"/>
     </contour>
     <contour>
-      <point x="107" y="240" type="line"/>
-      <point x="133" y="240" type="line"/>
+      <point x="95" y="239" type="line"/>
+      <point x="99" y="239"/>
+      <point x="86" y="240"/>
+      <point x="133" y="240" type="curve"/>
       <point x="136" y="237" type="line"/>
       <point x="136" y="232" type="line"/>
       <point x="133" y="226" type="line"/>
@@ -339,12 +351,12 @@
       <point x="95" y="168" type="line"/>
       <point x="93" y="170" type="line"/>
       <point x="93" y="236" type="line"/>
-      <point x="95" y="239" type="line"/>
-      <point x="101" y="239" type="line"/>
     </contour>
     <contour>
-      <point x="125" y="157" type="line"/>
-      <point x="129" y="157" type="line"/>
+      <point x="113" y="156" type="line"/>
+      <point x="120" y="157"/>
+      <point x="124" y="157"/>
+      <point x="129" y="157" type="curve"/>
       <point x="132" y="155" type="line"/>
       <point x="132" y="101" type="line"/>
       <point x="129" y="97" type="line"/>
@@ -358,7 +370,6 @@
       <point x="93" y="148" type="line"/>
       <point x="95" y="150" type="line"/>
       <point x="106" y="151" type="line"/>
-      <point x="113" y="156" type="line"/>
     </contour>
     <contour>
       <point x="358" y="256" type="line"/>
@@ -392,9 +403,9 @@
     </contour>
     <contour>
       <point x="333" y="150" type="line"/>
-      <point x="329" y="147" type="line"/>
-      <point x="324" y="141" type="line"/>
-      <point x="316" y="135" type="line"/>
+      <point x="325" y="142"/>
+      <point x="327" y="143"/>
+      <point x="316" y="135" type="curve"/>
       <point x="316" y="133" type="line"/>
       <point x="306" y="130" type="line"/>
       <point x="301" y="125" type="line"/>
@@ -407,8 +418,9 @@
       <point x="231" y="111" type="line"/>
       <point x="208" y="111" type="line"/>
       <point x="203" y="112" type="line"/>
-      <point x="202" y="114" type="line"/>
-      <point x="196" y="125" type="line"/>
+      <point x="201" y="117"/>
+      <point x="199" y="121"/>
+      <point x="196" y="125" type="curve"/>
       <point x="190" y="126" type="line"/>
       <point x="189" y="124" type="line"/>
       <point x="188" y="113" type="line"/>
@@ -424,15 +436,16 @@
       <point x="141" y="-47" type="line"/>
       <point x="126" y="-48" type="line"/>
       <point x="123" y="-46" type="line"/>
-      <point x="119" y="-39" type="line"/>
-      <point x="112" y="-30" type="line"/>
+      <point x="118" y="-37"/>
+      <point x="119" y="-39"/>
+      <point x="112" y="-30" type="curve"/>
       <point x="107" y="-30" type="line"/>
       <point x="105" y="-34" type="line"/>
       <point x="106" y="-47" type="line"/>
       <point x="111" y="-51" type="line"/>
-      <point x="116" y="-57" type="line"/>
-      <point x="121" y="-62" type="line"/>
-      <point x="125" y="-66" type="line"/>
+      <point x="117" y="-59"/>
+      <point x="117" y="-58"/>
+      <point x="125" y="-66" type="curve"/>
       <point x="131" y="-70" type="line"/>
       <point x="172" y="-68" type="line"/>
       <point x="175" y="-67" type="line"/>
@@ -446,11 +459,13 @@
       <point x="271" y="-62" type="line"/>
       <point x="275" y="-61" type="line"/>
       <point x="280" y="-57" type="line"/>
-      <point x="312" y="-56" type="line"/>
-      <point x="347" y="-56" type="line"/>
+      <point x="312" y="-56"/>
+      <point x="305" y="-56"/>
+      <point x="347" y="-56" type="curve"/>
       <point x="357" y="-50" type="line"/>
-      <point x="370" y="-50" type="line"/>
-      <point x="385" y="-49" type="line"/>
+      <point x="372" y="-50"/>
+      <point x="370" y="-50"/>
+      <point x="385" y="-49" type="curve"/>
       <point x="388" y="-46" type="line"/>
       <point x="389" y="-35" type="line"/>
       <point x="387" y="-30" type="line"/>
@@ -464,7 +479,6 @@
       <point x="332" y="-24" type="line"/>
       <point x="331" y="-11" type="line"/>
       <point x="329" y="-7" type="line"/>
-      <point x="328" y="21" type="line"/>
       <point x="327" y="42" type="line"/>
       <point x="331" y="57" type="line"/>
       <point x="332" y="107" type="line"/>
@@ -472,8 +486,9 @@
       <point x="339" y="112" type="line"/>
       <point x="342" y="116" type="line"/>
       <point x="347" y="118" type="line"/>
-      <point x="353" y="126" type="line"/>
-      <point x="356" y="132" type="line"/>
+      <point x="352" y="125"/>
+      <point x="352" y="125"/>
+      <point x="356" y="132" type="curve"/>
       <point x="356" y="141" type="line"/>
       <point x="355" y="142" type="line"/>
       <point x="350" y="144" type="line"/>
@@ -491,27 +506,26 @@
       <point x="302" y="-36" type="line"/>
       <point x="292" y="-36" type="line"/>
       <point x="288" y="-33" type="line"/>
-      <point x="283" y="-22" type="line"/>
       <point x="279" y="-11" type="line"/>
       <point x="279" y="-1" type="line"/>
-      <point x="282" y="10" type="line"/>
       <point x="285" y="19" type="line"/>
-      <point x="285" y="34" type="line"/>
-      <point x="286" y="72" type="line"/>
+      <point x="285" y="39"/>
+      <point x="285" y="49"/>
+      <point x="286" y="72" type="curve"/>
       <point x="289" y="77" type="line"/>
       <point x="297" y="84" type="line"/>
       <point x="300" y="90" type="line"/>
       <point x="292" y="96" type="line"/>
       <point x="292" y="103" type="line"/>
-      <point x="296" y="106" type="line"/>
     </contour>
     <contour>
       <point x="261" y="104" type="line"/>
       <point x="262" y="104" type="line"/>
       <point x="273" y="96" type="line"/>
       <point x="273" y="40" type="line"/>
-      <point x="272" y="35" type="line"/>
-      <point x="267" y="26" type="line"/>
+      <point x="271" y="33"/>
+      <point x="271" y="34"/>
+      <point x="267" y="26" type="curve"/>
       <point x="266" y="-27" type="line"/>
       <point x="265" y="-28" type="line"/>
       <point x="260" y="-31" type="line"/>
@@ -519,13 +533,12 @@
       <point x="247" y="-22" type="line"/>
       <point x="245" y="0" type="line"/>
       <point x="242" y="11" type="line"/>
-      <point x="242" y="37" type="line"/>
-      <point x="241" y="47" type="line"/>
-      <point x="240" y="73" type="line"/>
+      <point x="242" y="56"/>
+      <point x="242" y="21"/>
+      <point x="240" y="73" type="curve"/>
       <point x="239" y="77" type="line"/>
       <point x="236" y="77" type="line"/>
       <point x="235" y="79" type="line"/>
-      <point x="232" y="92" type="line"/>
       <point x="231" y="97" type="line"/>
       <point x="234" y="98" type="line"/>
       <point x="249" y="99" type="line"/>
@@ -534,21 +547,25 @@
       <point x="205" y="92" type="line"/>
       <point x="214" y="92" type="line"/>
       <point x="215" y="91" type="line"/>
-      <point x="219" y="80" type="line"/>
-      <point x="223" y="71" type="line"/>
+      <point x="219" y="82"/>
+      <point x="219" y="80"/>
+      <point x="223" y="71" type="curve"/>
       <point x="228" y="62" type="line"/>
-      <point x="229" y="20" type="line"/>
-      <point x="232" y="-6" type="line"/>
+      <point x="229" y="14"/>
+      <point x="228" y="31"/>
+      <point x="232" y="-6" type="curve"/>
       <point x="234" y="-12" type="line"/>
-      <point x="233" y="-18" type="line"/>
-      <point x="233" y="-25" type="line"/>
+      <point x="233" y="-18"/>
+      <point x="233" y="-17"/>
+      <point x="233" y="-25" type="curve"/>
       <point x="235" y="-30" type="line"/>
       <point x="234" y="-37" type="line"/>
       <point x="228" y="-43" type="line"/>
       <point x="216" y="-43" type="line"/>
       <point x="209" y="-34" type="line"/>
-      <point x="209" y="-28" type="line"/>
-      <point x="208" y="38" type="line"/>
+      <point x="209" y="-10"/>
+      <point x="208" y="16"/>
+      <point x="208" y="38" type="curve"/>
       <point x="202" y="45" type="line"/>
       <point x="202" y="87" type="line"/>
     </contour>
@@ -558,7 +575,7 @@
       <key>public.markColor</key>
       <string>1,1,0,1</string>
       <key>public.verticalOrigin</key>
-      <integer>442</integer>
+      <real>462.366638183594</real>
     </dict>
   </lib>
 </glyph>

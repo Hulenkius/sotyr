@@ -11,14 +11,13 @@
       <point x="265" y="388" type="line"/>
       <point x="264" y="366" type="line"/>
       <point x="261" y="363" type="line"/>
-      <point x="260" y="332" type="line"/>
-      <point x="258" y="327" type="line"/>
+      <point x="260" y="332"/>
+      <point x="258" y="327" type="qcurve"/>
       <point x="258" y="318" type="line"/>
       <point x="259" y="316" type="line"/>
       <point x="263" y="316" type="line"/>
       <point x="283" y="336"/>
       <point x="286" y="338" type="qcurve"/>
-      <point x="296" y="350" type="line"/>
       <point x="308" y="366" type="line"/>
       <point x="309" y="377" type="line"/>
       <point x="312" y="382" type="line"/>
@@ -39,8 +38,7 @@
       <point x="327" y="345" type="qcurve"/>
       <point x="319" y="344" type="line"/>
       <point x="305" y="330" type="line"/>
-      <point x="295" y="325"/>
-      <point x="278" y="313"/>
+      <point x="280" y="317"/>
       <point x="275" y="305" type="qcurve"/>
       <point x="276" y="301" type="line"/>
       <point x="283" y="299" type="line"/>
@@ -64,15 +62,13 @@
       <point x="354" y="220" type="line"/>
       <point x="352" y="218" type="line"/>
       <point x="343" y="222" type="line"/>
-      <point x="334" y="232" type="line"/>
       <point x="331" y="235"/>
       <point x="330" y="239" type="qcurve"/>
       <point x="326" y="243"/>
       <point x="321" y="245" type="qcurve"/>
       <point x="301" y="265" type="line"/>
-      <point x="292" y="269"/>
-      <point x="285" y="276" type="qcurve"/>
-      <point x="268" y="290" type="line"/>
+      <point x="295" y="268"/>
+      <point x="268" y="290" type="qcurve"/>
       <point x="268" y="291" type="line"/>
       <point x="263" y="293"/>
       <point x="260" y="297" type="qcurve"/>
@@ -93,9 +89,8 @@
       <point x="224" y="245" type="qcurve"/>
       <point x="214" y="230"/>
       <point x="201" y="219" type="qcurve"/>
-      <point x="190" y="206"/>
-      <point x="177" y="195" type="qcurve"/>
-      <point x="164" y="186" type="line"/>
+      <point x="188" y="203"/>
+      <point x="164" y="186" type="qcurve"/>
       <point x="159" y="181"/>
       <point x="153" y="178" type="qcurve"/>
       <point x="151" y="176" type="line"/>
@@ -167,8 +162,7 @@
       <point x="126" y="334" type="line"/>
       <point x="124" y="329"/>
       <point x="104" y="306" type="qcurve"/>
-      <point x="102" y="301"/>
-      <point x="93" y="289"/>
+      <point x="97" y="289"/>
       <point x="85" y="289" type="qcurve"/>
       <point x="84" y="290" type="line"/>
       <point x="84" y="303" type="line"/>
@@ -195,8 +189,6 @@
       <point x="193" y="318" type="line"/>
       <point x="190" y="314" type="line"/>
       <point x="189" y="304" type="line"/>
-      <point x="186" y="300"/>
-      <point x="185" y="295" type="qcurve"/>
       <point x="181" y="286" type="line"/>
       <point x="179" y="284" type="line"/>
       <point x="177" y="277"/>
@@ -240,9 +232,7 @@
       <point x="87" y="184"/>
       <point x="83" y="176" type="qcurve"/>
       <point x="81" y="175" type="line"/>
-      <point x="80" y="164"/>
-      <point x="76" y="153" type="qcurve"/>
-      <point x="72" y="147"/>
+      <point x="79" y="153"/>
       <point x="66" y="143" type="qcurve"/>
       <point x="62" y="144" type="line"/>
       <point x="58" y="148" type="line"/>
@@ -376,33 +366,25 @@
       <point x="220" y="28" type="qcurve"/>
       <point x="215" y="15" type="line"/>
       <point x="213" y="14" type="line"/>
-      <point x="210" y="3"/>
-      <point x="202" y="-5" type="qcurve"/>
-      <point x="195" y="-14" type="line"/>
-      <point x="192" y="-19"/>
+      <point x="209" y="-3"/>
       <point x="187" y="-24" type="qcurve"/>
       <point x="185" y="-30"/>
       <point x="180" y="-34" type="qcurve"/>
-      <point x="171" y="-39" type="line"/>
-      <point x="164" y="-44"/>
+      <point x="160" y="-45"/>
       <point x="156" y="-46" type="qcurve"/>
-      <point x="153" y="-51"/>
-      <point x="148" y="-55" type="qcurve"/>
-      <point x="135" y="-68" type="line"/>
+      <point x="154" y="-49"/>
+      <point x="135" y="-68" type="qcurve"/>
       <point x="119" y="-69"/>
       <point x="112" y="-75" type="qcurve"/>
       <point x="102" y="-76" type="line"/>
       <point x="99" y="-78" type="line"/>
       <point x="88" y="-75" type="line"/>
       <point x="88" y="-72" type="line"/>
-      <point x="102" y="-66" type="line"/>
-      <point x="111" y="-61"/>
+      <point x="109" y="-63"/>
       <point x="119" y="-53" type="qcurve"/>
       <point x="123" y="-52" type="line"/>
       <point x="123" y="-50" type="line"/>
-      <point x="129" y="-47"/>
-      <point x="150" y="-26" type="qcurve"/>
-      <point x="156" y="-23"/>
+      <point x="128" y="-48"/>
       <point x="172" y="-9" type="qcurve"/>
       <point x="178" y="-1"/>
       <point x="185" y="5" type="qcurve"/>
@@ -412,8 +394,6 @@
       <point x="207" y="42"/>
       <point x="209" y="49" type="qcurve"/>
       <point x="215" y="54"/>
-      <point x="217" y="61" type="qcurve"/>
-      <point x="218" y="62" type="line"/>
       <point x="218" y="67"/>
       <point x="220" y="72" type="qcurve"/>
       <point x="222" y="72" type="line"/>
@@ -547,7 +527,6 @@
       <point x="189" y="104" type="qcurve"/>
       <point x="186" y="99"/>
       <point x="184" y="94" type="qcurve"/>
-      <point x="183" y="93" type="line"/>
       <point x="182" y="81"/>
       <point x="177" y="71" type="qcurve"/>
       <point x="171" y="66" type="line"/>
@@ -559,7 +538,7 @@
   <lib>
     <dict>
       <key>public.verticalOrigin</key>
-      <integer>442</integer>
+      <integer>460</integer>
     </dict>
   </lib>
 </glyph>

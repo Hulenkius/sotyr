@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="presentationformforverticalideographicfullstop.ss02.1" format="2">
+  <advance width="420"/>
+  <outline>
+    <contour>
+      <point x="525" y="542"/>
+      <point x="522" y="550"/>
+      <point x="515" y="554" type="curve"/>
+      <point x="510" y="560"/>
+      <point x="504" y="563"/>
+      <point x="495" y="565" type="curve"/>
+      <point x="487" y="564"/>
+      <point x="479" y="559"/>
+      <point x="473" y="554" type="curve"/>
+      <point x="468" y="549"/>
+      <point x="466" y="541"/>
+      <point x="465" y="534" type="curve"/>
+      <point x="466" y="525"/>
+      <point x="469" y="518"/>
+      <point x="474" y="512" type="curve"/>
+      <point x="479" y="508"/>
+      <point x="486" y="505"/>
+      <point x="494" y="505" type="curve"/>
+      <point x="500" y="505"/>
+      <point x="508" y="508"/>
+      <point x="513" y="511" type="curve"/>
+      <point x="519" y="516"/>
+      <point x="524" y="525"/>
+      <point x="524" y="535" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.650980392156863,0.0666666666666667,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>442</integer>
+    </dict>
+  </lib>
+</glyph>

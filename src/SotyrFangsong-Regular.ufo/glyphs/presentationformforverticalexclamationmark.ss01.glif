@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="presentationformforverticalexclamationmark.ss01" format="2">
+  <advance width="420" height="542"/>
+  <outline>
+    <contour>
+      <point x="301" y="257" type="qcurve"/>
+      <point x="299" y="260" type="line"/>
+      <point x="299" y="292" type="line"/>
+      <point x="296" y="296"/>
+      <point x="296" y="316" type="qcurve"/>
+      <point x="298" y="316"/>
+      <point x="306" y="328" type="qcurve"/>
+      <point x="314" y="333" type="line"/>
+      <point x="314" y="335" type="line"/>
+      <point x="326" y="335" type="line"/>
+      <point x="335" y="335"/>
+      <point x="341" y="308" type="qcurve"/>
+      <point x="341" y="285"/>
+      <point x="336" y="258" type="qcurve"/>
+      <point x="336" y="237" type="line"/>
+      <point x="332" y="237" type="line"/>
+      <point x="332" y="205" type="line"/>
+      <point x="329" y="205" type="line"/>
+      <point x="327" y="162"/>
+      <point x="311" y="162" type="qcurve"/>
+      <point x="302" y="177"/>
+      <point x="302" y="223" type="qcurve"/>
+      <point x="299" y="250" type="line"/>
+      <point x="299" y="257"/>
+    </contour>
+    <contour>
+      <point x="319" y="150" type="qcurve"/>
+      <point x="324" y="150" type="line"/>
+      <point x="331" y="147"/>
+      <point x="339" y="135" type="qcurve"/>
+      <point x="341" y="135" type="line"/>
+      <point x="341" y="122"/>
+      <point x="332" y="115" type="qcurve"/>
+      <point x="332" y="107"/>
+      <point x="321" y="107" type="qcurve"/>
+      <point x="298" y="107"/>
+      <point x="289" y="129" type="qcurve"/>
+      <point x="289" y="142"/>
+      <point x="304" y="145" type="qcurve"/>
+      <point x="304" y="147"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.650980392156863,0.0666666666666667,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>442</integer>
+    </dict>
+  </lib>
+</glyph>
