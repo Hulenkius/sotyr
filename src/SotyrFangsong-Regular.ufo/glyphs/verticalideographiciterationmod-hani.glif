@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticalideographiciterationmod-hani" format="2">
+  <advance width="420" height="542"/>
+  <unicode hex="303B"/>
+  <outline>
+    <contour>
+      <point x="193" y="367" type="line"/>
+      <point x="196" y="367" type="line"/>
+      <point x="201" y="367"/>
+      <point x="205" y="366"/>
+      <point x="209" y="363" type="curve"/>
+      <point x="235" y="351"/>
+      <point x="253" y="343"/>
+      <point x="271" y="311" type="curve"/>
+      <point x="274" y="308"/>
+      <point x="275" y="306"/>
+      <point x="275" y="302" type="curve"/>
+      <point x="275" y="299" type="line"/>
+      <point x="274" y="297"/>
+      <point x="274" y="297"/>
+      <point x="272" y="295" type="curve"/>
+      <point x="262" y="292"/>
+      <point x="256" y="289"/>
+      <point x="245" y="280" type="curve"/>
+      <point x="223" y="268"/>
+      <point x="182" y="221"/>
+      <point x="170" y="220" type="curve"/>
+      <point x="167" y="220" type="line"/>
+      <point x="167" y="222"/>
+      <point x="167" y="222"/>
+      <point x="166" y="225" type="curve"/>
+      <point x="173" y="234"/>
+      <point x="198" y="259"/>
+      <point x="208" y="277" type="curve"/>
+      <point x="214" y="288"/>
+      <point x="228" y="295"/>
+      <point x="230" y="317" type="curve"/>
+      <point x="229" y="321"/>
+      <point x="227" y="322"/>
+      <point x="224" y="325" type="curve"/>
+      <point x="218" y="332"/>
+      <point x="218" y="343"/>
+      <point x="208" y="347" type="curve"/>
+      <point x="208" y="349" type="line"/>
+      <point x="205" y="350" type="line"/>
+      <point x="205" y="352" type="line"/>
+      <point x="202" y="353" type="line"/>
+      <point x="202" y="355" type="line"/>
+      <point x="199" y="357"/>
+      <point x="197" y="359"/>
+      <point x="194" y="363" type="curve"/>
+      <point x="192" y="364" type="line"/>
+    </contour>
+    <contour>
+      <point x="137" y="187" type="curve"/>
+      <point x="146" y="185"/>
+      <point x="146" y="178"/>
+      <point x="154" y="172" type="curve"/>
+      <point x="154" y="170" type="line"/>
+      <point x="162" y="167"/>
+      <point x="168" y="162"/>
+      <point x="174" y="156" type="curve"/>
+      <point x="183" y="149"/>
+      <point x="186" y="152"/>
+      <point x="217" y="126" type="curve"/>
+      <point x="234" y="112"/>
+      <point x="241" y="109"/>
+      <point x="249" y="99" type="curve"/>
+      <point x="255" y="92"/>
+      <point x="264" y="91"/>
+      <point x="267" y="83" type="curve"/>
+      <point x="268" y="78"/>
+      <point x="273" y="36"/>
+      <point x="274" y="33" type="curve"/>
+      <point x="273" y="30"/>
+      <point x="273" y="30"/>
+      <point x="271" y="28" type="curve"/>
+      <point x="269" y="28" type="line"/>
+      <point x="266" y="28"/>
+      <point x="265" y="29"/>
+      <point x="263" y="30" type="curve"/>
+      <point x="244" y="48"/>
+      <point x="224" y="74"/>
+      <point x="209" y="91" type="curve"/>
+      <point x="201" y="100"/>
+      <point x="202" y="103"/>
+      <point x="190" y="113" type="curve"/>
+      <point x="190" y="115" type="line"/>
+      <point x="183" y="119"/>
+      <point x="178" y="124"/>
+      <point x="172" y="130" type="curve"/>
+      <point x="161" y="141"/>
+      <point x="135" y="162"/>
+      <point x="133" y="180" type="curve"/>
+      <point x="134" y="184"/>
+      <point x="134" y="185"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.752941176470588,0.752941176470588,0.752941176470588,1</string>
+      <key>public.verticalOrigin</key>
+      <real>468.377197265625</real>
+    </dict>
+  </lib>
+</glyph>

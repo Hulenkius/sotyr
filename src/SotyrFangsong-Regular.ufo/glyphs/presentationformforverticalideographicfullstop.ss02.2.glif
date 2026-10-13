@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="presentationformforverticalideographicfullstop.ss02.2" format="2">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-20" y="485"/>
+      <point x="-23" y="493"/>
+      <point x="-30" y="497" type="curve"/>
+      <point x="-35" y="503"/>
+      <point x="-41" y="506"/>
+      <point x="-50" y="508" type="curve"/>
+      <point x="-58" y="507"/>
+      <point x="-66" y="502"/>
+      <point x="-72" y="497" type="curve"/>
+      <point x="-77" y="492"/>
+      <point x="-79" y="484"/>
+      <point x="-80" y="477" type="curve"/>
+      <point x="-79" y="468"/>
+      <point x="-76" y="461"/>
+      <point x="-71" y="455" type="curve"/>
+      <point x="-66" y="451"/>
+      <point x="-59" y="448"/>
+      <point x="-51" y="448" type="curve"/>
+      <point x="-45" y="448"/>
+      <point x="-37" y="451"/>
+      <point x="-32" y="454" type="curve"/>
+      <point x="-26" y="459"/>
+      <point x="-21" y="468"/>
+      <point x="-21" y="478" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.650980392156863,0.0666666666666667,1</string>
+    </dict>
+  </lib>
+</glyph>

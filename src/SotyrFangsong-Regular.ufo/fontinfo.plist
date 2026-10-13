@@ -112,6 +112,30 @@ This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
       <key>string</key>
       <string>仲春仿宋</string>
     </dict>
+    <dict>
+      <key>nameID</key>
+      <integer>19</integer>
+      <key>platformID</key>
+      <integer>3</integer>
+      <key>encodingID</key>
+      <integer>1</integer>
+      <key>languageID</key>
+      <integer>1028</integer>
+      <key>string</key>
+      <string>苟利國家生死以，豈因禍福避趨之。</string>
+    </dict>
+    <dict>
+      <key>nameID</key>
+      <integer>19</integer>
+      <key>platformID</key>
+      <integer>3</integer>
+      <key>encodingID</key>
+      <integer>1</integer>
+      <key>languageID</key>
+      <integer>2052</integer>
+      <key>string</key>
+      <string>苟利国家生死以，岂因祸福避趋之。</string>
+    </dict>
   </array>
   <key>openTypeNameUniqueID</key>
   <string>SotyrFangsongRegular:Version 0.013</string>
@@ -184,6 +208,7 @@ This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
     <integer>2</integer>
     <integer>3</integer>
     <integer>4</integer>
+    <integer>5</integer>
     <integer>7</integer>
     <integer>9</integer>
     <integer>29</integer>
@@ -195,6 +220,7 @@ This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
     <integer>48</integer>
     <integer>49</integer>
     <integer>50</integer>
+    <integer>51</integer>
     <integer>57</integer>
     <integer>59</integer>
     <integer>60</integer>
@@ -207,7 +233,7 @@ This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
   <key>openTypeOS2WeightClass</key>
   <integer>400</integer>
   <key>openTypeOS2WidthClass</key>
-  <integer>5</integer>
+  <integer>3</integer>
   <key>openTypeOS2WinAscent</key>
   <integer>483</integer>
   <key>openTypeOS2WinDescent</key>
@@ -241,7 +267,7 @@ This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
   <key>versionMajor</key>
   <integer>0</integer>
   <key>versionMinor</key>
-  <integer>10486</integer>
+  <integer>14418</integer>
   <key>xHeight</key>
   <integer>256</integer>
 </dict>

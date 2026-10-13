@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblright" format="2">
-  <advance width="419" height="542"/>
+  <advance width="420" height="542"/>
   <unicode hex="201D"/>
   <outline>
     <contour>
@@ -52,7 +52,7 @@
       <key>public.markColor</key>
       <string>0,0.650980392156863,0.0666666666666667,1</string>
       <key>public.verticalOrigin</key>
-      <integer>442</integer>
+      <real>442.208190917969</real>
     </dict>
   </lib>
 </glyph>

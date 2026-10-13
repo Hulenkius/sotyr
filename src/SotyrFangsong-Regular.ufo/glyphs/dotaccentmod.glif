@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentmod" format="2">
+  <advance width="93"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="55" y="387" type="curve"/>
+      <point x="63" y="383"/>
+      <point x="67" y="378"/>
+      <point x="72" y="372" type="curve"/>
+      <point x="74" y="363"/>
+      <point x="73" y="355"/>
+      <point x="69" y="348" type="curve"/>
+      <point x="64" y="340"/>
+      <point x="58" y="335"/>
+      <point x="50" y="332" type="curve"/>
+      <point x="43" y="331"/>
+      <point x="36" y="332"/>
+      <point x="30" y="336" type="curve"/>
+      <point x="24" y="342"/>
+      <point x="21" y="348"/>
+      <point x="20" y="356" type="curve"/>
+      <point x="20" y="366"/>
+      <point x="22" y="374"/>
+      <point x="28" y="381" type="curve"/>
+      <point x="31" y="383"/>
+      <point x="33" y="384"/>
+      <point x="36" y="386" type="curve"/>
+      <point x="36" y="386"/>
+      <point x="37" y="386"/>
+      <point x="37" y="387" type="curve"/>
+      <point x="43" y="389"/>
+      <point x="50" y="388"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.803921568627451,0.6,1,1</string>
+    </dict>
+  </lib>
+</glyph>

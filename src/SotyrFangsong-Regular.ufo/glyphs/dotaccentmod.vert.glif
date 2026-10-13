@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentmod.vert" format="2">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-538" y="429" type="curve"/>
+      <point x="-534" y="436"/>
+      <point x="-529" y="441"/>
+      <point x="-523" y="445" type="curve"/>
+      <point x="-514" y="447"/>
+      <point x="-506" y="447"/>
+      <point x="-499" y="443" type="curve"/>
+      <point x="-491" y="438"/>
+      <point x="-486" y="432"/>
+      <point x="-483" y="423" type="curve"/>
+      <point x="-482" y="416"/>
+      <point x="-483" y="410"/>
+      <point x="-487" y="404" type="curve"/>
+      <point x="-493" y="398"/>
+      <point x="-499" y="395"/>
+      <point x="-508" y="394" type="curve"/>
+      <point x="-517" y="393"/>
+      <point x="-525" y="396"/>
+      <point x="-532" y="402" type="curve"/>
+      <point x="-534" y="404"/>
+      <point x="-535" y="407"/>
+      <point x="-537" y="410" type="curve"/>
+      <point x="-537" y="410"/>
+      <point x="-537" y="411"/>
+      <point x="-538" y="411" type="curve"/>
+      <point x="-540" y="416"/>
+      <point x="-539" y="424"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.803921568627451,0.6,1,1</string>
+      <key>public.verticalOrigin</key>
+      <real>0.344618767499924</real>
+    </dict>
+  </lib>
+</glyph>

@@ -22,13 +22,10 @@
       <point x="307" y="210" type="line"/>
       <point x="301" y="210"/>
       <point x="296" y="211" type="qcurve"/>
-      <point x="291" y="211"/>
-      <point x="286" y="209" type="qcurve"/>
-      <point x="257" y="206"/>
+      <point x="286" y="210"/>
       <point x="228" y="201" type="qcurve"/>
       <point x="222" y="202" type="line"/>
       <point x="218" y="206" type="line"/>
-      <point x="210" y="200" type="line"/>
       <point x="207" y="198" type="line"/>
       <point x="194" y="198"/>
       <point x="182" y="195" type="qcurve"/>
@@ -41,9 +38,7 @@
       <point x="93" y="179"/>
       <point x="87" y="177" type="qcurve"/>
       <point x="77" y="176" type="line"/>
-      <point x="65" y="182" type="line"/>
-      <point x="54" y="188"/>
-      <point x="43" y="192" type="qcurve"/>
+      <point x="43" y="192" type="line"/>
       <point x="38" y="196"/>
       <point x="34" y="201" type="qcurve"/>
       <point x="36" y="212" type="line"/>
@@ -75,7 +70,7 @@
   <lib>
     <dict>
       <key>public.verticalOrigin</key>
-      <integer>442</integer>
+      <real>485.270080566406</real>
     </dict>
   </lib>
 </glyph>

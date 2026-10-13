@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="presentationformforverticalsemicolon.ss01" format="2">
+  <advance width="420" height="542"/>
+  <outline>
+    <contour>
+      <point x="322" y="371" type="qcurve"/>
+      <point x="350" y="364"/>
+      <point x="350" y="352" type="qcurve"/>
+      <point x="329" y="319"/>
+      <point x="326" y="319" type="qcurve"/>
+      <point x="292" y="319"/>
+      <point x="292" y="348" type="qcurve"/>
+      <point x="292" y="370"/>
+    </contour>
+    <contour>
+      <point x="313" y="276" type="qcurve"/>
+      <point x="329" y="276"/>
+      <point x="335" y="263" type="qcurve"/>
+      <point x="341" y="258"/>
+      <point x="341" y="224" type="qcurve"/>
+      <point x="330" y="190"/>
+      <point x="305" y="168" type="qcurve"/>
+      <point x="287" y="148"/>
+      <point x="276" y="148" type="qcurve"/>
+      <point x="276" y="151"/>
+      <point x="272" y="157" type="qcurve"/>
+      <point x="272" y="168"/>
+      <point x="296" y="183" type="qcurve"/>
+      <point x="311" y="198"/>
+      <point x="311" y="217" type="qcurve"/>
+      <point x="289" y="243" type="line"/>
+      <point x="287" y="243"/>
+      <point x="285" y="250" type="qcurve"/>
+      <point x="285" y="270"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.650980392156863,0.0666666666666667,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>442</integer>
+    </dict>
+  </lib>
+</glyph>
