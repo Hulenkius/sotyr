@@ -2648,8 +2648,14 @@
   <string>u200C_9.glif</string>
   <key>u200CA</key>
   <string>u200C_A_.glif</string>
+  <key>u200CB</key>
+  <string>u200C_B_.glif</string>
   <key>u200CC</key>
   <string>u200C_C_.glif</string>
+  <key>u200CD</key>
+  <string>u200C_D_.glif</string>
+  <key>u200D1</key>
+  <string>u200D_1.glif</string>
   <key>u200D5</key>
   <string>u200D_5.glif</string>
   <key>u200DE</key>
@@ -2670,6 +2676,8 @@
   <string>u2010E_.glif</string>
   <key>u20117</key>
   <string>u20117.glif</string>
+  <key>u20118</key>
+  <string>u20118.glif</string>
   <key>u2011B</key>
   <string>u2011B_.glif</string>
   <key>u2011E</key>
@@ -2678,10 +2686,14 @@
   <string>u2011F_.glif</string>
   <key>u20128</key>
   <string>u20128.glif</string>
+  <key>u2012C</key>
+  <string>u2012C_.glif</string>
   <key>u20143</key>
   <string>u20143.glif</string>
   <key>u2014F</key>
   <string>u2014F_.glif</string>
+  <key>u20158</key>
+  <string>u20158.glif</string>
   <key>u2015E</key>
   <string>u2015E_.glif</string>
   <key>u20164</key>
@@ -2700,6 +2712,8 @@
   <string>u201A_1.glif</string>
   <key>u201A2</key>
   <string>u201A_2.glif</string>
+  <key>u201A4</key>
+  <string>u201A_4.glif</string>
   <key>u201AD</key>
   <string>u201A_D_.glif</string>
   <key>u201BA</key>
@@ -2722,6 +2736,8 @@
   <string>u20203.glif</string>
   <key>u20207</key>
   <string>u20207.glif</string>
+  <key>u2020C</key>
+  <string>u2020C_.glif</string>
   <key>u2020D</key>
   <string>u2020D_.glif</string>
   <key>u20219</key>
@@ -2876,6 +2892,8 @@
   <string>u20597.glif</string>
   <key>u205A0</key>
   <string>u205A_0.glif</string>
+  <key>u205B1</key>
+  <string>u205B_1.glif</string>
   <key>u205C2</key>
   <string>u205C_2.glif</string>
   <key>u205C9</key>
@@ -2888,6 +2906,8 @@
   <string>u205F_4.glif</string>
   <key>u205FB</key>
   <string>u205F_B_.glif</string>
+  <key>u20611</key>
+  <string>u20611.glif</string>
   <key>u2061D</key>
   <string>u2061D_.glif</string>
   <key>u20627</key>
@@ -3062,6 +3082,8 @@
   <string>u20984.glif</string>
   <key>u20992</key>
   <string>u20992.glif</string>
+  <key>u2099D</key>
+  <string>u2099D_.glif</string>
   <key>u209AA</key>
   <string>u209A_A_.glif</string>
   <key>u209AB</key>
@@ -3106,10 +3128,14 @@
   <string>u20A_44.glif</string>
   <key>u20A45</key>
   <string>u20A_45.glif</string>
+  <key>u20A50</key>
+  <string>u20A_50.glif</string>
   <key>u20A57</key>
   <string>u20A_57.glif</string>
   <key>u20A5B</key>
   <string>u20A_5B_.glif</string>
+  <key>u20A64</key>
+  <string>u20A_64.glif</string>
   <key>u20A6C</key>
   <string>u20A_6C_.glif</string>
   <key>u20A7A</key>
@@ -3510,6 +3536,8 @@
   <string>u21523.glif</string>
   <key>u21552</key>
   <string>u21552.glif</string>
+  <key>u21555</key>
+  <string>u21555.glif</string>
   <key>u21557</key>
   <string>u21557.glif</string>
   <key>u2155B</key>
@@ -3538,6 +3566,8 @@
   <string>u215B_6.glif</string>
   <key>u215B7</key>
   <string>u215B_7.glif</string>
+  <key>u215D7</key>
+  <string>u215D_7.glif</string>
   <key>u215E6</key>
   <string>u215E_6.glif</string>
   <key>u215F6</key>
@@ -3642,6 +3672,8 @@
   <string>u21968.glif</string>
   <key>u21976</key>
   <string>u21976.glif</string>
+  <key>u21980</key>
+  <string>u21980.glif</string>
   <key>u2199F</key>
   <string>u2199F_.glif</string>
   <key>u219A1</key>
@@ -3724,6 +3756,8 @@
   <string>u21B_96.glif</string>
   <key>u21BA7</key>
   <string>u21B_A_7.glif</string>
+  <key>u21BC1</key>
+  <string>u21B_C_1.glif</string>
   <key>u21BC2</key>
   <string>u21B_C_2.glif</string>
   <key>u21C08</key>
@@ -3808,6 +3842,8 @@
   <string>u21D_92.glif</string>
   <key>u21DAD</key>
   <string>u21D_A_D_.glif</string>
+  <key>u21DCA</key>
+  <string>u21D_C_A_.glif</string>
   <key>u21DE0</key>
   <string>u21D_E_0.glif</string>
   <key>u21DE8</key>
@@ -3942,6 +3978,8 @@
   <string>u22016.glif</string>
   <key>u2201C</key>
   <string>u2201C_.glif</string>
+  <key>u22049</key>
+  <string>u22049.glif</string>
   <key>u2204E</key>
   <string>u2204E_.glif</string>
   <key>u22052</key>
@@ -3988,6 +4026,8 @@
   <string>u221A_F_.glif</string>
   <key>u221B6</key>
   <string>u221B_6.glif</string>
+  <key>u221C1</key>
+  <string>u221C_1.glif</string>
   <key>u221C2</key>
   <string>u221C_2.glif</string>
   <key>u221C7</key>
@@ -4018,6 +4058,8 @@
   <string>u2231A_.glif</string>
   <key>u2231C</key>
   <string>u2231C_.glif</string>
+  <key>u2231E</key>
+  <string>u2231E_.glif</string>
   <key>u22328</key>
   <string>u22328.glif</string>
   <key>u2232C</key>
@@ -4100,6 +4142,10 @@
   <string>u224A_B_.glif</string>
   <key>u224B0</key>
   <string>u224B_0.glif</string>
+  <key>u224BC</key>
+  <string>u224B_C_.glif</string>
+  <key>u224C1</key>
+  <string>u224C_1.glif</string>
   <key>u224C7</key>
   <string>u224C_7.glif</string>
   <key>u224C8</key>
@@ -4108,6 +4154,8 @@
   <string>u224C_9.glif</string>
   <key>u224CA</key>
   <string>u224C_A_.glif</string>
+  <key>u224CC</key>
+  <string>u224C_C_.glif</string>
   <key>u224E1</key>
   <string>u224E_1.glif</string>
   <key>u224EA</key>
@@ -4192,6 +4240,8 @@
   <string>u226D_0.glif</string>
   <key>u226E4</key>
   <string>u226E_4.glif</string>
+  <key>u226F3</key>
+  <string>u226F_3.glif</string>
   <key>u22724</key>
   <string>u22724.glif</string>
   <key>u2272D</key>
@@ -4218,6 +4268,8 @@
   <string>u227B_5.glif</string>
   <key>u227BD</key>
   <string>u227B_D_.glif</string>
+  <key>u227CD</key>
+  <string>u227C_D_.glif</string>
   <key>u227E1</key>
   <string>u227E_1.glif</string>
   <key>u227FD</key>
@@ -4240,6 +4292,8 @@
   <string>u22846.glif</string>
   <key>u22848</key>
   <string>u22848.glif</string>
+  <key>u22871</key>
+  <string>u22871.glif</string>
   <key>u22880</key>
   <string>u22880.glif</string>
   <key>u2289E</key>
@@ -4272,6 +4326,8 @@
   <string>u2295E_.glif</string>
   <key>u22960</key>
   <string>u22960.glif</string>
+  <key>u22980</key>
+  <string>u22980.glif</string>
   <key>u2298F</key>
   <string>u2298F_.glif</string>
   <key>u22993</key>
@@ -4324,6 +4380,8 @@
   <string>u22A_98.glif</string>
   <key>u22AB1</key>
   <string>u22A_B_1.glif</string>
+  <key>u22ACF</key>
+  <string>u22A_C_F_.glif</string>
   <key>u22AD3</key>
   <string>u22A_D_3.glif</string>
   <key>u22AD5</key>
@@ -4352,6 +4410,8 @@
   <string>u22B_95.glif</string>
   <key>u22BA5</key>
   <string>u22B_A_5.glif</string>
+  <key>u22BA6</key>
+  <string>u22B_A_6.glif</string>
   <key>u22BC6</key>
   <string>u22B_C_6.glif</string>
   <key>u22BCA</key>
@@ -4458,6 +4518,8 @@
   <string>u22E_B_6.glif</string>
   <key>u22EEC</key>
   <string>u22E_E_C_.glif</string>
+  <key>u22EEF</key>
+  <string>u22E_E_F_.glif</string>
   <key>u22EF1</key>
   <string>u22E_F_1.glif</string>
   <key>u22EF3</key>
@@ -4498,10 +4560,14 @@
   <string>u22F_B_7.glif</string>
   <key>u22FBA</key>
   <string>u22F_B_A_.glif</string>
+  <key>u22FCC</key>
+  <string>u22F_C_C_.glif</string>
   <key>u22FDB</key>
   <string>u22F_D_B_.glif</string>
   <key>u22FE5</key>
   <string>u22F_E_5.glif</string>
+  <key>u22FEB</key>
+  <string>u22F_E_B_.glif</string>
   <key>u22FF2</key>
   <string>u22F_F_2.glif</string>
   <key>u22FF3</key>
@@ -4518,10 +4584,16 @@
   <string>u23029.glif</string>
   <key>u23037</key>
   <string>u23037.glif</string>
+  <key>u23044</key>
+  <string>u23044.glif</string>
+  <key>u2304B</key>
+  <string>u2304B_.glif</string>
   <key>u2305F</key>
   <string>u2305F_.glif</string>
   <key>u23073</key>
   <string>u23073.glif</string>
+  <key>u2307D</key>
+  <string>u2307D_.glif</string>
   <key>u23080</key>
   <string>u23080.glif</string>
   <key>u23086</key>
@@ -4588,6 +4660,8 @@
   <string>u23206.glif</string>
   <key>u23225</key>
   <string>u23225.glif</string>
+  <key>u2322F</key>
+  <string>u2322F_.glif</string>
   <key>u23236</key>
   <string>u23236.glif</string>
   <key>u23258</key>
@@ -4646,6 +4720,8 @@
   <string>u233B_5.glif</string>
   <key>u233BC</key>
   <string>u233B_C_.glif</string>
+  <key>u233CC</key>
+  <string>u233C_C_.glif</string>
   <key>u233D3</key>
   <string>u233D_3.glif</string>
   <key>u233D4</key>
@@ -4656,6 +4732,8 @@
   <string>u233D_F_.glif</string>
   <key>u233E2</key>
   <string>u233E_2.glif</string>
+  <key>u233F5</key>
+  <string>u233F_5.glif</string>
   <key>u233FE</key>
   <string>u233F_E_.glif</string>
   <key>u2340A</key>
@@ -4854,6 +4932,8 @@
   <string>u23A_98.glif</string>
   <key>u23AA0</key>
   <string>u23A_A_0.glif</string>
+  <key>u23AA7</key>
+  <string>u23A_A_7.glif</string>
   <key>u23AAF</key>
   <string>u23A_A_F_.glif</string>
   <key>u23AB7</key>
@@ -4932,6 +5012,8 @@
   <string>u23C_75.glif</string>
   <key>u23C7C</key>
   <string>u23C_7C_.glif</string>
+  <key>u23C7E</key>
+  <string>u23C_7E_.glif</string>
   <key>u23C86</key>
   <string>u23C_86.glif</string>
   <key>u23C8E</key>
@@ -5068,6 +5150,8 @@
   <string>u24070.glif</string>
   <key>u240C4</key>
   <string>u240C_4.glif</string>
+  <key>u240C9</key>
+  <string>u240C_9.glif</string>
   <key>u240EB</key>
   <string>u240E_B_.glif</string>
   <key>u240ED</key>
@@ -5086,6 +5170,8 @@
   <string>u240F_B_.glif</string>
   <key>u24101</key>
   <string>u24101.glif</string>
+  <key>u24103</key>
+  <string>u24103.glif</string>
   <key>u2410E</key>
   <string>u2410E_.glif</string>
   <key>u24112</key>
@@ -5122,6 +5208,8 @@
   <string>u241E_F_.glif</string>
   <key>u241F9</key>
   <string>u241F_9.glif</string>
+  <key>u241FE</key>
+  <string>u241F_E_.glif</string>
   <key>u24220</key>
   <string>u24220.glif</string>
   <key>u24226</key>
@@ -5134,6 +5222,8 @@
   <string>u24261.glif</string>
   <key>u24267</key>
   <string>u24267.glif</string>
+  <key>u24277</key>
+  <string>u24277.glif</string>
   <key>u242B6</key>
   <string>u242B_6.glif</string>
   <key>u242B9</key>
@@ -5250,6 +5340,8 @@
   <string>u24567.glif</string>
   <key>u2456B</key>
   <string>u2456B_.glif</string>
+  <key>u2456C</key>
+  <string>u2456C_.glif</string>
   <key>u2456F</key>
   <string>u2456F_.glif</string>
   <key>u24584</key>
@@ -5284,6 +5376,8 @@
   <string>u2465B_.glif</string>
   <key>u2468E</key>
   <string>u2468E_.glif</string>
+  <key>u246A5</key>
+  <string>u246A_5.glif</string>
   <key>u246A9</key>
   <string>u246A_9.glif</string>
   <key>u246CB</key>
@@ -5566,10 +5660,14 @@
   <string>u24D_C_D_.glif</string>
   <key>u24DEA</key>
   <string>u24D_E_A_.glif</string>
+  <key>u24DEB</key>
+  <string>u24D_E_B_.glif</string>
   <key>u24E01</key>
   <string>u24E_01.glif</string>
   <key>u24E03</key>
   <string>u24E_03.glif</string>
+  <key>u24E04</key>
+  <string>u24E_04.glif</string>
   <key>u24E07</key>
   <string>u24E_07.glif</string>
   <key>u24E2A</key>
@@ -5614,6 +5712,10 @@
   <string>u24F_68.glif</string>
   <key>u24F95</key>
   <string>u24F_95.glif</string>
+  <key>u24FA9</key>
+  <string>u24F_A_9.glif</string>
+  <key>u24FB8</key>
+  <string>u24F_B_8.glif</string>
   <key>u24FCC</key>
   <string>u24F_C_C_.glif</string>
   <key>u24FD0</key>
@@ -5626,6 +5728,8 @@
   <string>u2500F_.glif</string>
   <key>u25043</key>
   <string>u25043.glif</string>
+  <key>u2504A</key>
+  <string>u2504A_.glif</string>
   <key>u25050</key>
   <string>u25050.glif</string>
   <key>u25051</key>
@@ -5700,6 +5804,8 @@
   <string>u25217.glif</string>
   <key>u2521F</key>
   <string>u2521F_.glif</string>
+  <key>u25220</key>
+  <string>u25220.glif</string>
   <key>u25236</key>
   <string>u25236.glif</string>
   <key>u2523C</key>
@@ -5872,6 +5978,8 @@
   <string>u257A_8.glif</string>
   <key>u257B7</key>
   <string>u257B_7.glif</string>
+  <key>u257DF</key>
+  <string>u257D_F_.glif</string>
   <key>u25804</key>
   <string>u25804.glif</string>
   <key>u25838</key>
@@ -5914,6 +6022,8 @@
   <string>u2598D_.glif</string>
   <key>u25997</key>
   <string>u25997.glif</string>
+  <key>u259CC</key>
+  <string>u259C_C_.glif</string>
   <key>u259F2</key>
   <string>u259F_2.glif</string>
   <key>u25A0D</key>
@@ -5932,6 +6042,8 @@
   <string>u25A_5A_.glif</string>
   <key>u25A8B</key>
   <string>u25A_8B_.glif</string>
+  <key>u25A95</key>
+  <string>u25A_95.glif</string>
   <key>u25AB0</key>
   <string>u25A_B_0.glif</string>
   <key>u25ABD</key>
@@ -6074,6 +6186,8 @@
   <string>u25E_44.glif</string>
   <key>u25E46</key>
   <string>u25E_46.glif</string>
+  <key>u25E62</key>
+  <string>u25E_62.glif</string>
   <key>u25E77</key>
   <string>u25E_77.glif</string>
   <key>u25E86</key>
@@ -6138,6 +6252,8 @@
   <string>u2601A_.glif</string>
   <key>u26021</key>
   <string>u26021.glif</string>
+  <key>u26029</key>
+  <string>u26029.glif</string>
   <key>u26049</key>
   <string>u26049.glif</string>
   <key>u26050</key>
@@ -6474,6 +6590,8 @@
   <string>u268C_A_.glif</string>
   <key>u268CF</key>
   <string>u268C_F_.glif</string>
+  <key>u268DD</key>
+  <string>u268D_D_.glif</string>
   <key>u268DE</key>
   <string>u268D_E_.glif</string>
   <key>u268E0</key>
@@ -6506,6 +6624,8 @@
   <string>u2696D_.glif</string>
   <key>u2696E</key>
   <string>u2696E_.glif</string>
+  <key>u2696F</key>
+  <string>u2696F_.glif</string>
   <key>u26999</key>
   <string>u26999.glif</string>
   <key>u2699D</key>
@@ -6568,6 +6688,8 @@
   <string>u26A_F_3.glif</string>
   <key>u26AF9</key>
   <string>u26A_F_9.glif</string>
+  <key>u26B05</key>
+  <string>u26B_05.glif</string>
   <key>u26B0A</key>
   <string>u26B_0A_.glif</string>
   <key>u26B12</key>
@@ -6734,6 +6856,8 @@
   <string>u26F_88.glif</string>
   <key>u26F8F</key>
   <string>u26F_8F_.glif</string>
+  <key>u26F94</key>
+  <string>u26F_94.glif</string>
   <key>u26F9B</key>
   <string>u26F_9B_.glif</string>
   <key>u26FAE</key>
@@ -7300,6 +7424,8 @@
   <string>u27C_19.glif</string>
   <key>u27C35</key>
   <string>u27C_35.glif</string>
+  <key>u27C3C</key>
+  <string>u27C_3C_.glif</string>
   <key>u27C3D</key>
   <string>u27C_3D_.glif</string>
   <key>u27C48</key>
@@ -7584,6 +7710,10 @@
   <string>u28469.glif</string>
   <key>u2846D</key>
   <string>u2846D_.glif</string>
+  <key>u28473</key>
+  <string>u28473.glif</string>
+  <key>u28482</key>
+  <string>u28482.glif</string>
   <key>u28485</key>
   <string>u28485.glif</string>
   <key>u28487</key>
@@ -7786,6 +7916,8 @@
   <string>u2893F_.glif</string>
   <key>u28942</key>
   <string>u28942.glif</string>
+  <key>u28956</key>
+  <string>u28956.glif</string>
   <key>u2895B</key>
   <string>u2895B_.glif</string>
   <key>u28966</key>
@@ -7800,6 +7932,8 @@
   <string>u289F_1.glif</string>
   <key>u28A0F</key>
   <string>u28A_0F_.glif</string>
+  <key>u28A16</key>
+  <string>u28A_16.glif</string>
   <key>u28A89</key>
   <string>u28A_89.glif</string>
   <key>u28AD3</key>
@@ -7862,6 +7996,8 @@
   <string>u28C_C_C_.glif</string>
   <key>u28CCD</key>
   <string>u28C_C_D_.glif</string>
+  <key>u28CCF</key>
+  <string>u28C_C_F_.glif</string>
   <key>u28CD2</key>
   <string>u28C_D_2.glif</string>
   <key>u28CE2</key>
@@ -8000,6 +8136,8 @@
   <string>u29063.glif</string>
   <key>u29067</key>
   <string>u29067.glif</string>
+  <key>u29079</key>
+  <string>u29079.glif</string>
   <key>u290A2</key>
   <string>u290A_2.glif</string>
   <key>u290A3</key>
@@ -9088,6 +9226,8 @@
   <string>u2B_328.glif</string>
   <key>u2B35F</key>
   <string>u2B_35F_.glif</string>
+  <key>u2B361</key>
+  <string>u2B_361.glif</string>
   <key>u2B362</key>
   <string>u2B_362.glif</string>
   <key>u2B363</key>
@@ -9256,8 +9396,12 @@
   <string>u2B_736.glif</string>
   <key>u2B739</key>
   <string>u2B_739.glif</string>
+  <key>u2B746</key>
+  <string>u2B_746.glif</string>
   <key>u2B74F</key>
   <string>u2B_74F_.glif</string>
+  <key>u2B753</key>
+  <string>u2B_753.glif</string>
   <key>u2B758</key>
   <string>u2B_758.glif</string>
   <key>u2B75B</key>
@@ -9392,6 +9536,8 @@
   <string>u2B_F_21.glif</string>
   <key>u2BF4B</key>
   <string>u2B_F_4B_.glif</string>
+  <key>u2BF90</key>
+  <string>u2B_F_90.glif</string>
   <key>u2BFA8</key>
   <string>u2B_F_A_8.glif</string>
   <key>u2BFAC</key>
@@ -9912,6 +10058,8 @@
   <string>u2E_64B_.glif</string>
   <key>u2E66E</key>
   <string>u2E_66E_.glif</string>
+  <key>u2E76C</key>
+  <string>u2E_76C_.glif</string>
   <key>u2E774</key>
   <string>u2E_774.glif</string>
   <key>u2E775</key>
@@ -9944,6 +10092,8 @@
   <string>u2E_932.glif</string>
   <key>u2E97C</key>
   <string>u2E_97C_.glif</string>
+  <key>u2E9B7</key>
+  <string>u2E_9B_7.glif</string>
   <key>u2E9F4</key>
   <string>u2E_9F_4.glif</string>
   <key>u2E9F5</key>
@@ -13650,6 +13800,8 @@
   <string>u4705.glif</string>
   <key>u470B</key>
   <string>u470B_.glif</string>
+  <key>u470C</key>
+  <string>u470C_.glif</string>
   <key>u470E</key>
   <string>u470E_.glif</string>
   <key>u4715</key>
@@ -56630,10 +56782,6 @@
   <string>u9F_B_8.glif</string>
   <key>u9FB9</key>
   <string>u9F_B_9.glif</string>
-  <key>u9FBA</key>
-  <string>u9F_B_A_.glif</string>
-  <key>u9FBB</key>
-  <string>u9F_B_B_.glif</string>
   <key>u9FBC</key>
   <string>u9F_B_C_.glif</string>
   <key>u9FBD</key>
